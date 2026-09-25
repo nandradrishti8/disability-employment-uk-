@@ -1,0 +1,1273 @@
+period,group,sex,metric,value_pct
+Apr-Jun 2013,Disabled,People,In Employment,43.6340593622694
+Apr-Jun 2013,Disabled,People,Unemployed,13.5145069038124
+Apr-Jun 2013,Disabled,People,Economically active,50.4524606383875
+Apr-Jun 2013,Disabled,People,Economically inactive,49.5475393616125
+Apr-Jun 2013,Non-disabled,People,In Employment,76.7785461353267
+Apr-Jun 2013,Non-disabled,People,Unemployed,7.13884688762106
+Apr-Jun 2013,Non-disabled,People,Economically active,82.6810173705367
+Apr-Jun 2013,Non-disabled,People,Economically inactive,17.3189826294633
+Jul-Sep 2013,Disabled,People,In Employment,43.406447790389
+Jul-Sep 2013,Disabled,People,Unemployed,14.5367345247779
+Jul-Sep 2013,Disabled,People,Economically active,50.7895966167752
+Jul-Sep 2013,Disabled,People,Economically inactive,49.2104033832249
+Jul-Sep 2013,Non-disabled,People,In Employment,77.6375144579237
+Jul-Sep 2013,Non-disabled,People,Unemployed,7.22648703768314
+Jul-Sep 2013,Non-disabled,People,Economically active,83.6850001459564
+Jul-Sep 2013,Non-disabled,People,Economically inactive,16.3149998540436
+Oct-Dec 2013,Disabled,People,In Employment,44.1792042288794
+Oct-Dec 2013,Disabled,People,Unemployed,13.0766957016502
+Oct-Dec 2013,Disabled,People,Economically active,50.825500233219
+Oct-Dec 2013,Disabled,People,Economically inactive,49.174499766781
+Oct-Dec 2013,Non-disabled,People,In Employment,77.9177914761797
+Oct-Dec 2013,Non-disabled,People,Unemployed,6.5093785079709
+Oct-Dec 2013,Non-disabled,People,Economically active,83.3428960388533
+Oct-Dec 2013,Non-disabled,People,Economically inactive,16.6571039611467
+Jan-Mar 2014,Disabled,People,In Employment,44.247279782323
+Jan-Mar 2014,Disabled,People,Unemployed,13.7470360622233
+Jan-Mar 2014,Disabled,People,Economically active,51.2994310714275
+Jan-Mar 2014,Disabled,People,Economically inactive,48.7005689285725
+Jan-Mar 2014,Non-disabled,People,In Employment,78.0187164226953
+Jan-Mar 2014,Non-disabled,People,Unemployed,6.01747645338884
+Jan-Mar 2014,Non-disabled,People,Economically active,83.0140684443331
+Jan-Mar 2014,Non-disabled,People,Economically inactive,16.9859315556669
+Apr-Jun 2014,Disabled,People,In Employment,44.9229823889529
+Apr-Jun 2014,Disabled,People,Unemployed,12.6538191023836
+Apr-Jun 2014,Disabled,People,Economically active,51.4309634689235
+Apr-Jun 2014,Disabled,People,Economically inactive,48.5690365310765
+Apr-Jun 2014,Non-disabled,People,In Employment,78.3837316555715
+Apr-Jun 2014,Non-disabled,People,Unemployed,5.56800554714789
+Apr-Jun 2014,Non-disabled,People,Economically active,83.0054814681552
+Apr-Jun 2014,Non-disabled,People,Economically inactive,16.9945185318448
+Jul-Sep 2014,Disabled,People,In Employment,45.7594682177274
+Jul-Sep 2014,Disabled,People,Unemployed,11.5845690889238
+Jul-Sep 2014,Disabled,People,Economically active,51.7550700666154
+Jul-Sep 2014,Disabled,People,Economically inactive,48.2449299333846
+Jul-Sep 2014,Non-disabled,People,In Employment,79.0495434510055
+Jul-Sep 2014,Non-disabled,People,Unemployed,5.69436306651497
+Jul-Sep 2014,Non-disabled,People,Economically active,83.8227130651375
+Jul-Sep 2014,Non-disabled,People,Economically inactive,16.1772869348625
+Oct-Dec 2014,Disabled,People,In Employment,45.5496227699882
+Oct-Dec 2014,Disabled,People,Unemployed,11.3487706804962
+Oct-Dec 2014,Disabled,People,Economically active,51.3807006621701
+Oct-Dec 2014,Disabled,People,Economically inactive,48.6192993378299
+Oct-Dec 2014,Non-disabled,People,In Employment,79.1701480871019
+Oct-Dec 2014,Non-disabled,People,Unemployed,4.98463238333943
+Oct-Dec 2014,Non-disabled,People,Economically active,83.3235192085072
+Oct-Dec 2014,Non-disabled,People,Economically inactive,16.6764807914928
+Jan-Mar 2015,Disabled,People,In Employment,46.2986321318304
+Jan-Mar 2015,Disabled,People,Unemployed,11.1133110962766
+Jan-Mar 2015,Disabled,People,Economically active,52.0872502990614
+Jan-Mar 2015,Disabled,People,Economically inactive,47.9127497009386
+Jan-Mar 2015,Non-disabled,People,In Employment,78.9889402079434
+Jan-Mar 2015,Non-disabled,People,Unemployed,4.93235921265485
+Jan-Mar 2015,Non-disabled,People,Economically active,83.0870941508185
+Jan-Mar 2015,Non-disabled,People,Economically inactive,16.9129058491815
+Apr-Jun 2015,Disabled,People,In Employment,45.9037095145224
+Apr-Jun 2015,Disabled,People,Unemployed,11.5300713432994
+Apr-Jun 2015,Disabled,People,Economically active,51.8862287011076
+Apr-Jun 2015,Disabled,People,Economically inactive,48.1137712988924
+Apr-Jun 2015,Non-disabled,People,In Employment,79.1797992942581
+Apr-Jun 2015,Non-disabled,People,Unemployed,4.88201369640695
+Apr-Jun 2015,Non-disabled,People,Economically active,83.243771626468
+Apr-Jun 2015,Non-disabled,People,Economically inactive,16.756228373532
+Jul-Sep 2015,Disabled,People,In Employment,45.6141700145574
+Jul-Sep 2015,Disabled,People,Unemployed,11.5728688044969
+Jul-Sep 2015,Disabled,People,Economically active,51.5839080131519
+Jul-Sep 2015,Disabled,People,Economically inactive,48.4160919868481
+Jul-Sep 2015,Non-disabled,People,In Employment,80.1541094082931
+Jul-Sep 2015,Non-disabled,People,Unemployed,4.89757753518053
+Jul-Sep 2015,Non-disabled,People,Economically active,84.2818798206154
+Jul-Sep 2015,Non-disabled,People,Economically inactive,15.7181201793846
+Oct-Dec 2015,Disabled,People,In Employment,46.6254979813479
+Oct-Dec 2015,Disabled,People,Unemployed,10.487833036161
+Oct-Dec 2015,Disabled,People,Economically active,52.0884473729516
+Oct-Dec 2015,Disabled,People,Economically inactive,47.9115526270484
+Oct-Dec 2015,Non-disabled,People,In Employment,80.2699367022792
+Oct-Dec 2015,Non-disabled,People,Unemployed,4.35553232724101
+Oct-Dec 2015,Non-disabled,People,Economically active,83.9253316531776
+Oct-Dec 2015,Non-disabled,People,Economically inactive,16.0746683468224
+Jan-Mar 2016,Disabled,People,In Employment,46.8518415028913
+Jan-Mar 2016,Disabled,People,Unemployed,10.5895189778309
+Jan-Mar 2016,Disabled,People,Economically active,52.400838209644
+Jan-Mar 2016,Disabled,People,Economically inactive,47.599161790356
+Jan-Mar 2016,Non-disabled,People,In Employment,79.9334967583557
+Jan-Mar 2016,Non-disabled,People,Unemployed,4.44539418791894
+Jan-Mar 2016,Non-disabled,People,Economically active,83.6521652504684
+Jan-Mar 2016,Non-disabled,People,Economically inactive,16.3478347495316
+Apr-Jun 2016,Disabled,People,In Employment,47.8581920769266
+Apr-Jun 2016,Disabled,People,Unemployed,10.0172133930276
+Apr-Jun 2016,Disabled,People,Economically active,53.1859413133781
+Apr-Jun 2016,Disabled,People,Economically inactive,46.8140586866219
+Apr-Jun 2016,Non-disabled,People,In Employment,80.0645048451509
+Apr-Jun 2016,Non-disabled,People,Unemployed,4.2839813623336
+Apr-Jun 2016,Non-disabled,People,Economically active,83.647968213383
+Apr-Jun 2016,Non-disabled,People,Economically inactive,16.352031786617
+Jul-Sep 2016,Disabled,People,In Employment,48.2277482652177
+Jul-Sep 2016,Disabled,People,Unemployed,10.0158822613001
+Jul-Sep 2016,Disabled,People,Economically active,53.5958449970734
+Jul-Sep 2016,Disabled,People,Economically inactive,46.4041550029266
+Jul-Sep 2016,Non-disabled,People,In Employment,80.4972171441738
+Jul-Sep 2016,Non-disabled,People,Unemployed,4.5046096187985
+Jul-Sep 2016,Non-disabled,People,Economically active,84.29434847362
+Jul-Sep 2016,Non-disabled,People,Economically inactive,15.70565152638
+Oct-Dec 2016,Disabled,People,In Employment,49.5106863496731
+Oct-Dec 2016,Disabled,People,Unemployed,9.24621234629599
+Oct-Dec 2016,Disabled,People,Economically active,54.5549531647039
+Oct-Dec 2016,Disabled,People,Economically inactive,45.4450468352961
+Oct-Dec 2016,Non-disabled,People,In Employment,80.3287846583268
+Oct-Dec 2016,Non-disabled,People,Unemployed,4.10059097939331
+Oct-Dec 2016,Non-disabled,People,Economically active,83.7635867402123
+Oct-Dec 2016,Non-disabled,People,Economically inactive,16.2364132597877
+Jan-Mar 2017,Disabled,People,In Employment,48.960341112155
+Jan-Mar 2017,Disabled,People,Unemployed,9.12592277533981
+Jan-Mar 2017,Disabled,People,Economically active,53.8771260269466
+Jan-Mar 2017,Disabled,People,Economically inactive,46.1228739730534
+Jan-Mar 2017,Non-disabled,People,In Employment,80.2431222498747
+Jan-Mar 2017,Non-disabled,People,Unemployed,4.06745502807162
+Jan-Mar 2017,Non-disabled,People,Economically active,83.6453596361436
+Jan-Mar 2017,Non-disabled,People,Economically inactive,16.3546403638564
+Apr-Jun 2017,Disabled,People,In Employment,49.1738836257613
+Apr-Jun 2017,Disabled,People,Unemployed,9.01839001695943
+Apr-Jun 2017,Disabled,People,Economically active,54.048157242906
+Apr-Jun 2017,Disabled,People,Economically inactive,45.951842757094
+Apr-Jun 2017,Non-disabled,People,In Employment,80.5525456382999
+Apr-Jun 2017,Non-disabled,People,Unemployed,3.82834123656789
+Apr-Jun 2017,Non-disabled,People,Economically active,83.7591309893564
+Apr-Jun 2017,Non-disabled,People,Economically inactive,16.2408690106436
+Jul-Sep 2017,Disabled,People,In Employment,49.7601164234958
+Jul-Sep 2017,Disabled,People,Unemployed,9.46579089469035
+Jul-Sep 2017,Disabled,People,Economically active,54.9627780650458
+Jul-Sep 2017,Disabled,People,Economically inactive,45.0372219349542
+Jul-Sep 2017,Non-disabled,People,In Employment,81.0714958452798
+Jul-Sep 2017,Non-disabled,People,Unemployed,3.80195061780025
+Jul-Sep 2017,Non-disabled,People,Economically active,84.2756130357473
+Jul-Sep 2017,Non-disabled,People,Economically inactive,15.7243869642527
+Oct-Dec 2017,Disabled,People,In Employment,50.5350435411176
+Oct-Dec 2017,Disabled,People,Unemployed,9.14120215558399
+Oct-Dec 2017,Disabled,People,Economically active,55.6193178206609
+Oct-Dec 2017,Disabled,People,Economically inactive,44.3806821793391
+Oct-Dec 2017,Non-disabled,People,In Employment,81.1155825201355
+Oct-Dec 2017,Non-disabled,People,Unemployed,3.59734336943959
+Oct-Dec 2017,Non-disabled,People,Economically active,84.1424763126509
+Oct-Dec 2017,Non-disabled,People,Economically inactive,15.8575236873491
+Jan-Mar 2018,Disabled,People,In Employment,50.7195883973899
+Jan-Mar 2018,Disabled,People,Unemployed,9.13324463722685
+Jan-Mar 2018,Disabled,People,Economically active,55.817540964128
+Jan-Mar 2018,Disabled,People,Economically inactive,44.182459035872
+Jan-Mar 2018,Non-disabled,People,In Employment,81.0529301642911
+Jan-Mar 2018,Non-disabled,People,Unemployed,3.5656000559262
+Jan-Mar 2018,Non-disabled,People,Economically active,84.0498102454072
+Jan-Mar 2018,Non-disabled,People,Economically inactive,15.9501897545928
+Apr-Jun 2018,Disabled,People,In Employment,50.6624760158425
+Apr-Jun 2018,Disabled,People,Unemployed,8.82011052006157
+Apr-Jun 2018,Disabled,People,Economically active,55.5632127926513
+Apr-Jun 2018,Disabled,People,Economically inactive,44.4367872073487
+Apr-Jun 2018,Non-disabled,People,In Employment,81.134404387836
+Apr-Jun 2018,Non-disabled,People,Unemployed,3.34489707599352
+Apr-Jun 2018,Non-disabled,People,Economically active,83.9421840475682
+Apr-Jun 2018,Non-disabled,People,Economically inactive,16.0578159524318
+Jul-Sep 2018,Disabled,People,In Employment,51.2478788992151
+Jul-Sep 2018,Disabled,People,Unemployed,9.21110180969939
+Jul-Sep 2018,Disabled,People,Economically active,56.447296884026
+Jul-Sep 2018,Disabled,People,Economically inactive,43.552703115974
+Jul-Sep 2018,Non-disabled,People,In Employment,81.421614145774
+Jul-Sep 2018,Non-disabled,People,Unemployed,3.64064439767176
+Jul-Sep 2018,Non-disabled,People,Economically active,84.4978815360682
+Jul-Sep 2018,Non-disabled,People,Economically inactive,15.5021184639319
+Oct-Dec 2018,Disabled,People,In Employment,51.5456710849939
+Oct-Dec 2018,Disabled,People,Unemployed,8.48464059385596
+Oct-Dec 2018,Disabled,People,Economically active,56.324611977138
+Oct-Dec 2018,Disabled,People,Economically inactive,43.675388022862
+Oct-Dec 2018,Non-disabled,People,In Employment,81.7324018449351
+Oct-Dec 2018,Non-disabled,People,Unemployed,3.33447336172577
+Oct-Dec 2018,Non-disabled,People,Economically active,84.5517576817024
+Oct-Dec 2018,Non-disabled,People,Economically inactive,15.4482423182976
+Jan-Mar 2019,Disabled,People,In Employment,51.7902847415331
+Jan-Mar 2019,Disabled,People,Unemployed,7.96582860540606
+Jan-Mar 2019,Disabled,People,Economically active,56.2728864255036
+Jan-Mar 2019,Disabled,People,Economically inactive,43.7271135744964
+Jan-Mar 2019,Non-disabled,People,In Employment,81.5869562546166
+Jan-Mar 2019,Non-disabled,People,Unemployed,3.28339132923272
+Jan-Mar 2019,Non-disabled,People,Economically active,84.3567173993316
+Jan-Mar 2019,Non-disabled,People,Economically inactive,15.6432826006684
+Apr-Jun 2019,Disabled,People,In Employment,52.6444331697644
+Apr-Jun 2019,Disabled,People,Unemployed,7.26460487038992
+Apr-Jun 2019,Disabled,People,Economically active,56.7684357156044
+Apr-Jun 2019,Disabled,People,Economically inactive,43.2315642843956
+Apr-Jun 2019,Non-disabled,People,In Employment,81.4437229459823
+Apr-Jun 2019,Non-disabled,People,Unemployed,3.38589564164605
+Apr-Jun 2019,Non-disabled,People,Economically active,84.2979640362831
+Apr-Jun 2019,Non-disabled,People,Economically inactive,15.7020359637169
+Jul-Sep 2019,Disabled,People,In Employment,53.2664849082555
+Jul-Sep 2019,Disabled,People,Unemployed,6.6590674929393
+Jul-Sep 2019,Disabled,People,Economically active,57.0665874847846
+Jul-Sep 2019,Disabled,People,Economically inactive,42.9334125152154
+Jul-Sep 2019,Non-disabled,People,In Employment,81.7203557134371
+Jul-Sep 2019,Non-disabled,People,Unemployed,3.73249229552321
+Jul-Sep 2019,Non-disabled,People,Economically active,84.8888245495077
+Jul-Sep 2019,Non-disabled,People,Economically inactive,15.1111754504923
+Oct-Dec 2019,Disabled,People,In Employment,54.2125994301314
+Oct-Dec 2019,Disabled,People,Unemployed,6.90907666458806
+Oct-Dec 2019,Disabled,People,Economically active,58.2361818829536
+Oct-Dec 2019,Disabled,People,Economically inactive,41.7638181170464
+Oct-Dec 2019,Non-disabled,People,In Employment,82.1146527663126
+Oct-Dec 2019,Non-disabled,People,Unemployed,3.23284073949709
+Oct-Dec 2019,Non-disabled,People,Economically active,84.8579759846573
+Oct-Dec 2019,Non-disabled,People,Economically inactive,15.1420240153427
+Jan-Mar 2020,Disabled,People,In Employment,52.718335866286
+Jan-Mar 2020,Disabled,People,Unemployed,7.27619089349638
+Jan-Mar 2020,Disabled,People,Economically active,56.8552310073167
+Jan-Mar 2020,Disabled,People,Economically inactive,43.1447689926833
+Jan-Mar 2020,Non-disabled,People,In Employment,82.0521297369644
+Jan-Mar 2020,Non-disabled,People,Unemployed,3.62518098418391
+Jan-Mar 2020,Non-disabled,People,Economically active,85.1385564973137
+Jan-Mar 2020,Non-disabled,People,Economically inactive,14.8614435026863
+Apr-Jun 2020,Disabled,People,In Employment,51.6713019803615
+Apr-Jun 2020,Disabled,People,Unemployed,6.9184195474576
+Apr-Jun 2020,Disabled,People,Economically active,55.5118442651563
+Apr-Jun 2020,Disabled,People,Economically inactive,44.4881557348437
+Apr-Jun 2020,Non-disabled,People,In Employment,81.2988313815059
+Apr-Jun 2020,Non-disabled,People,Unemployed,3.63434394710258
+Apr-Jun 2020,Non-disabled,People,Economically active,84.3649436028112
+Apr-Jun 2020,Non-disabled,People,Economically inactive,15.6350563971888
+Jul-Sep 2020,Disabled,People,In Employment,51.0754042517993
+Jul-Sep 2020,Disabled,People,Unemployed,8.02054039025387
+Jul-Sep 2020,Disabled,People,Economically active,55.5291414719155
+Jul-Sep 2020,Disabled,People,Economically inactive,44.4708585280845
+Jul-Sep 2020,Non-disabled,People,In Employment,80.9812645473473
+Jul-Sep 2020,Non-disabled,People,Unemployed,4.70226482364143
+Jul-Sep 2020,Non-disabled,People,Economically active,84.9771134618078
+Jul-Sep 2020,Non-disabled,People,Economically inactive,15.0228865381922
+Oct-Dec 2020,Disabled,People,In Employment,51.6036833374431
+Oct-Dec 2020,Disabled,People,Unemployed,8.51225101536603
+Oct-Dec 2020,Disabled,People,Economically active,56.4050202460554
+Oct-Dec 2020,Disabled,People,Economically inactive,43.5949797539447
+Oct-Dec 2020,Non-disabled,People,In Employment,80.7333112534366
+Oct-Dec 2020,Non-disabled,People,Unemployed,4.78598067747432
+Oct-Dec 2020,Non-disabled,People,Economically active,84.7914118402696
+Oct-Dec 2020,Non-disabled,People,Economically inactive,15.2085881597304
+Jan-Mar 2021,Disabled,People,In Employment,51.8152354913735
+Jan-Mar 2021,Disabled,People,Unemployed,8.25587140029691
+Jan-Mar 2021,Disabled,People,Economically active,56.4779853296696
+Jan-Mar 2021,Disabled,People,Economically inactive,43.5220146703304
+Jan-Mar 2021,Non-disabled,People,In Employment,80.7464567961752
+Jan-Mar 2021,Non-disabled,People,Unemployed,4.34447207912849
+Jan-Mar 2021,Non-disabled,People,Economically active,84.4137903488135
+Jan-Mar 2021,Non-disabled,People,Economically inactive,15.5862096511865
+Apr-Jun 2021,Disabled,People,In Employment,52.0040930259597
+Apr-Jun 2021,Disabled,People,Unemployed,8.3937079342056
+Apr-Jun 2021,Disabled,People,Economically active,56.7691278112303
+Apr-Jun 2021,Disabled,People,Economically inactive,43.2308721887697
+Apr-Jun 2021,Non-disabled,People,In Employment,80.907105940005
+Apr-Jun 2021,Non-disabled,People,Unemployed,3.95646486003101
+Apr-Jun 2021,Non-disabled,People,Economically active,84.2400332537688
+Apr-Jun 2021,Non-disabled,People,Economically inactive,15.7599667462312
+Jul-Sep 2021,Disabled,People,In Employment,53.0722477222383
+Jul-Sep 2021,Disabled,People,Unemployed,7.62662023647186
+Jul-Sep 2021,Disabled,People,Economically active,57.4540499201187
+Jul-Sep 2021,Disabled,People,Economically inactive,42.5459500798813
+Jul-Sep 2021,Non-disabled,People,In Employment,81.4647501529936
+Jul-Sep 2021,Non-disabled,People,Unemployed,4.04181660520202
+Jul-Sep 2021,Non-disabled,People,Economically active,84.8960946017762
+Jul-Sep 2021,Non-disabled,People,Economically inactive,15.1039053982238
+Oct-Dec 2021,Disabled,People,In Employment,52.6302811983481
+Oct-Dec 2021,Disabled,People,Unemployed,7.4787099727123
+Oct-Dec 2021,Disabled,People,Economically active,56.8845086172335
+Oct-Dec 2021,Disabled,People,Economically inactive,43.1154913827665
+Oct-Dec 2021,Non-disabled,People,In Employment,81.7705970579326
+Oct-Dec 2021,Non-disabled,People,Unemployed,3.58889971384583
+Oct-Dec 2021,Non-disabled,People,Economically active,84.8145045697356
+Oct-Dec 2021,Non-disabled,People,Economically inactive,15.1854954302644
+Jan-Mar 2022,Disabled,People,In Employment,53.0088500909421
+Jan-Mar 2022,Disabled,People,Unemployed,6.78747119995018
+Jan-Mar 2022,Disabled,People,Economically active,56.8688037684842
+Jan-Mar 2022,Disabled,People,Economically inactive,43.1311962315158
+Jan-Mar 2022,Non-disabled,People,In Employment,81.6804618636522
+Jan-Mar 2022,Non-disabled,People,Unemployed,3.22411843241826
+Jan-Mar 2022,Non-disabled,People,Economically active,84.4016717188074
+Jan-Mar 2022,Non-disabled,People,Economically inactive,15.5983282811926
+Apr-Jun 2022,Disabled,People,In Employment,52.380542183613
+Apr-Jun 2022,Disabled,People,Unemployed,6.84124923730572
+Apr-Jun 2022,Disabled,People,Economically active,56.2271839787154
+Apr-Jun 2022,Disabled,People,Economically inactive,43.7728160212846
+Apr-Jun 2022,Non-disabled,People,In Employment,81.6309282515155
+Apr-Jun 2022,Non-disabled,People,Unemployed,3.18296233354837
+Apr-Jun 2022,Non-disabled,People,Economically active,84.3146312044225
+Apr-Jun 2022,Non-disabled,People,Economically inactive,15.6853687955775
+Jul-Sep 2022,Disabled,People,In Employment,52.0933345868666
+Jul-Sep 2022,Disabled,People,Unemployed,7.31618484964865
+Jul-Sep 2022,Disabled,People,Economically active,56.2054275629041
+Jul-Sep 2022,Disabled,People,Economically inactive,43.7945724370959
+Jul-Sep 2022,Non-disabled,People,In Employment,82.081961011893
+Jul-Sep 2022,Non-disabled,People,Unemployed,3.27325542958679
+Jul-Sep 2022,Non-disabled,People,Economically active,84.8596335754282
+Jul-Sep 2022,Non-disabled,People,Economically inactive,15.1403664245718
+Oct-Dec 2022,Disabled,People,In Employment,52.6785570853982
+Oct-Dec 2022,Disabled,People,Unemployed,7.42338981868321
+Oct-Dec 2022,Disabled,People,Economically active,56.9026636233754
+Oct-Dec 2022,Disabled,People,Economically inactive,43.0973363766246
+Oct-Dec 2022,Non-disabled,People,In Employment,82.4397743256254
+Oct-Dec 2022,Non-disabled,People,Unemployed,3.25360225832215
+Oct-Dec 2022,Non-disabled,People,Economically active,85.2122417474886
+Oct-Dec 2022,Non-disabled,People,Economically inactive,14.7877582525114
+Jan-Mar 2023,Disabled,People,In Employment,52.9895710473968
+Jan-Mar 2023,Disabled,People,Unemployed,6.44019950489651
+Jan-Mar 2023,Disabled,People,Economically active,56.6371141953964
+Jan-Mar 2023,Disabled,People,Economically inactive,43.3628858046036
+Jan-Mar 2023,Non-disabled,People,In Employment,82.3518675029316
+Jan-Mar 2023,Non-disabled,People,Unemployed,3.53850555351716
+Jan-Mar 2023,Non-disabled,People,Economically active,85.3727883602516
+Jan-Mar 2023,Non-disabled,People,Economically inactive,14.6272116397484
+Apr-Jun 2023,Disabled,People,In Employment,52.9253642711783
+Apr-Jun 2023,Disabled,People,Unemployed,7.21545786369645
+Apr-Jun 2023,Disabled,People,Economically active,57.0411439800276
+Apr-Jun 2023,Disabled,People,Economically inactive,42.9588560199724
+Apr-Jun 2023,Non-disabled,People,In Employment,82.1144539911437
+Apr-Jun 2023,Non-disabled,People,Unemployed,3.6188761171896
+Apr-Jun 2023,Non-disabled,People,Economically active,85.1976514519446
+Apr-Jun 2023,Non-disabled,People,Economically inactive,14.8023485480554
+Jul-Sep 2023,Disabled,People,In Employment,53.6077997020906
+Jul-Sep 2023,Disabled,People,Unemployed,6.89102664187965
+Jul-Sep 2023,Disabled,People,Economically active,57.5753311078854
+Jul-Sep 2023,Disabled,People,Economically inactive,42.4246688921146
+Jul-Sep 2023,Non-disabled,People,In Employment,81.8564205170849
+Jul-Sep 2023,Non-disabled,People,Unemployed,3.83231534605692
+Jul-Sep 2023,Non-disabled,People,Economically active,85.1184270596127
+Jul-Sep 2023,Non-disabled,People,Economically inactive,14.8815729403873
+Oct-Dec 2023,Disabled,People,In Employment,53.9595887831683
+Oct-Dec 2023,Disabled,People,Unemployed,5.61275966254686
+Oct-Dec 2023,Disabled,People,Economically active,57.1683085449389
+Oct-Dec 2023,Disabled,People,Economically inactive,42.8316914550611
+Oct-Dec 2023,Non-disabled,People,In Employment,81.9660800031949
+Oct-Dec 2023,Non-disabled,People,Unemployed,3.55502021177308
+Oct-Dec 2023,Non-disabled,People,Economically active,84.987399223034
+Oct-Dec 2023,Non-disabled,People,Economically inactive,15.012600776966
+Jan-Mar 2024,Disabled,People,In Employment,52.9705487562332
+Jan-Mar 2024,Disabled,People,Unemployed,7.7718688286928
+Jan-Mar 2024,Disabled,People,Economically active,57.4342644521813
+Jan-Mar 2024,Disabled,People,Economically inactive,42.5657355478187
+Jan-Mar 2024,Non-disabled,People,In Employment,81.7307634403781
+Jan-Mar 2024,Non-disabled,People,Unemployed,3.60163292151847
+Jan-Mar 2024,Non-disabled,People,Economically active,84.7843857913465
+Jan-Mar 2024,Non-disabled,People,Economically inactive,15.2156142086536
+Apr-Jun 2024,Disabled,People,In Employment,53.0819151096621
+Apr-Jun 2024,Disabled,People,Unemployed,6.92646434590936
+Apr-Jun 2024,Disabled,People,Economically active,57.0322323489912
+Apr-Jun 2024,Disabled,People,Economically inactive,42.9677676510088
+Apr-Jun 2024,Non-disabled,People,In Employment,81.6243762221511
+Apr-Jun 2024,Non-disabled,People,Unemployed,3.60340099539601
+Apr-Jun 2024,Non-disabled,People,Economically active,84.6755767993979
+Apr-Jun 2024,Non-disabled,People,Economically inactive,15.3244232006021
+Jul-Sep 2024,Disabled,People,In Employment,54.4965756696628
+Jul-Sep 2024,Disabled,People,Unemployed,6.73663260017794
+Jul-Sep 2024,Disabled,People,Economically active,58.4329916332903
+Jul-Sep 2024,Disabled,People,Economically inactive,41.5670083667097
+Jul-Sep 2024,Non-disabled,People,In Employment,81.9491907783755
+Jul-Sep 2024,Non-disabled,People,Unemployed,3.98546145425553
+Jul-Sep 2024,Non-disabled,People,Economically active,85.3508145949503
+Jul-Sep 2024,Non-disabled,People,Economically inactive,14.6491854050497
+Oct-Dec 2024,Disabled,People,In Employment,54.019402665738
+Oct-Dec 2024,Disabled,People,Unemployed,7.20498330264498
+Oct-Dec 2024,Disabled,People,Economically active,58.2136892565242
+Oct-Dec 2024,Disabled,People,Economically inactive,41.7863107434758
+Oct-Dec 2024,Non-disabled,People,In Employment,82.2033630672685
+Oct-Dec 2024,Non-disabled,People,Unemployed,3.74730700382728
+Oct-Dec 2024,Non-disabled,People,Economically active,85.4037019728239
+Oct-Dec 2024,Non-disabled,People,Economically inactive,14.5962980271761
+Jan-Mar 2025,Disabled,People,In Employment,53.9653335906218
+Jan-Mar 2025,Disabled,People,Unemployed,7.73351109509892
+Jan-Mar 2025,Disabled,People,Economically active,58.488552269767
+Jan-Mar 2025,Disabled,People,Economically inactive,41.511447730233
+Jan-Mar 2025,Non-disabled,People,In Employment,81.9428239358182
+Jan-Mar 2025,Non-disabled,People,Unemployed,3.88775245133493
+Jan-Mar 2025,Non-disabled,People,Economically active,85.2574214273031
+Jan-Mar 2025,Non-disabled,People,Economically inactive,14.7425785726969
+Apr-Jun 2025,Disabled,People,In Employment,52.8493227798141
+Apr-Jun 2025,Disabled,People,Unemployed,8.46334248488089
+Apr-Jun 2025,Disabled,People,Economically active,57.7356921417903
+Apr-Jun 2025,Disabled,People,Economically inactive,42.2643078582097
+Apr-Jun 2025,Non-disabled,People,In Employment,82.5398842723637
+Apr-Jun 2025,Non-disabled,People,Unemployed,3.90353967331014
+Apr-Jun 2025,Non-disabled,People,Economically active,85.8927415138506
+Apr-Jun 2025,Non-disabled,People,Economically inactive,14.1072584861495
+Jul-Sep 2025,Disabled,People,In Employment,52.3186899191982
+Jul-Sep 2025,Disabled,People,Unemployed,9.05355379789095
+Jul-Sep 2025,Disabled,People,Economically active,57.5269206263773
+Jul-Sep 2025,Disabled,People,Economically inactive,42.4730793736228
+Jul-Sep 2025,Non-disabled,People,In Employment,82.4585663898129
+Jul-Sep 2025,Non-disabled,People,Unemployed,4.41655793625919
+Jul-Sep 2025,Non-disabled,People,Economically active,86.2686722819885
+Jul-Sep 2025,Non-disabled,People,Economically inactive,13.7313277180115
+Oct-Dec 2025,Disabled,People,In Employment,52.7750049725153
+Oct-Dec 2025,Disabled,People,Unemployed,9.17812526387551
+Oct-Dec 2025,Disabled,People,Economically active,58.1082532438895
+Oct-Dec 2025,Disabled,People,Economically inactive,41.8917467561105
+Oct-Dec 2025,Non-disabled,People,In Employment,82.2607534830393
+Oct-Dec 2025,Non-disabled,People,Unemployed,4.39979462955944
+Oct-Dec 2025,Non-disabled,People,Economically active,86.0466284191417
+Oct-Dec 2025,Non-disabled,People,Economically inactive,13.9533715808583
+Jan-Mar 2026,Disabled,People,In Employment,53.1080550382742
+Jan-Mar 2026,Disabled,People,Unemployed,8.70685228995163
+Jan-Mar 2026,Disabled,People,Economically active,58.1731010162428
+Jan-Mar 2026,Disabled,People,Economically inactive,41.8268989837572
+Jan-Mar 2026,Non-disabled,People,In Employment,82.1774258056909
+Jan-Mar 2026,Non-disabled,People,Unemployed,4.29003787844524
+Jan-Mar 2026,Non-disabled,People,Economically active,85.8608905322969
+Jan-Mar 2026,Non-disabled,People,Economically inactive,14.1391094677031
+Apr-Jun 2026,Disabled,People,In Employment,53.0138490890909
+Apr-Jun 2026,Disabled,People,Unemployed,8.67338731865009
+Apr-Jun 2026,Disabled,People,Economically active,58.04863175432
+Apr-Jun 2026,Disabled,People,Economically inactive,41.95136824568
+Apr-Jun 2026,Non-disabled,People,In Employment,82.4097969837024
+Apr-Jun 2026,Non-disabled,People,Unemployed,4.09078228121133
+Apr-Jun 2026,Non-disabled,People,Economically active,85.9247931990569
+Apr-Jun 2026,Non-disabled,People,Economically inactive,14.0752068009432
+Apr-Jun 2013,Disabled,Men,In Employment,45.8158158258766
+Apr-Jun 2013,Disabled,Men,Unemployed,14.6240768140643
+Apr-Jun 2013,Disabled,Men,Economically active,53.6636256642247
+Apr-Jun 2013,Disabled,Men,Economically inactive,46.3363743357753
+Apr-Jun 2013,Non-disabled,Men,In Employment,81.4026339388049
+Apr-Jun 2013,Non-disabled,Men,Unemployed,7.72804198062649
+Apr-Jun 2013,Non-disabled,Men,Economically active,88.220338753095
+Apr-Jun 2013,Non-disabled,Men,Economically inactive,11.779661246905
+Jul-Sep 2013,Disabled,Men,In Employment,45.277154528539
+Jul-Sep 2013,Disabled,Men,Unemployed,15.9778010681978
+Jul-Sep 2013,Disabled,Men,Economically active,53.8871335244259
+Jul-Sep 2013,Disabled,Men,Economically inactive,46.1128664755741
+Jul-Sep 2013,Non-disabled,Men,In Employment,82.8042252754251
+Jul-Sep 2013,Non-disabled,Men,Unemployed,7.49782136314124
+Jul-Sep 2013,Non-disabled,Men,Economically active,89.5159730242619
+Jul-Sep 2013,Non-disabled,Men,Economically inactive,10.4840269757381
+Oct-Dec 2013,Disabled,Men,In Employment,45.8294032309622
+Oct-Dec 2013,Disabled,Men,Unemployed,14.9410802581443
+Oct-Dec 2013,Disabled,Men,Economically active,53.8795970722991
+Oct-Dec 2013,Disabled,Men,Economically inactive,46.1204029277009
+Oct-Dec 2013,Non-disabled,Men,In Employment,82.9472595906847
+Oct-Dec 2013,Non-disabled,Men,Unemployed,6.78038505934669
+Oct-Dec 2013,Non-disabled,Men,Economically active,88.9804786723177
+Oct-Dec 2013,Non-disabled,Men,Economically inactive,11.0195213276823
+Jan-Mar 2014,Disabled,Men,In Employment,45.6229823482598
+Jan-Mar 2014,Disabled,Men,Unemployed,15.5623740132642
+Jan-Mar 2014,Disabled,Men,Economically active,54.0315787128201
+Jan-Mar 2014,Disabled,Men,Economically inactive,45.9684212871799
+Jan-Mar 2014,Non-disabled,Men,In Employment,82.9015484918836
+Jan-Mar 2014,Non-disabled,Men,Unemployed,6.29383265910065
+Jan-Mar 2014,Non-disabled,Men,Economically active,88.4696822465175
+Jan-Mar 2014,Non-disabled,Men,Economically inactive,11.5303177534825
+Apr-Jun 2014,Disabled,Men,In Employment,46.6621406811036
+Apr-Jun 2014,Disabled,Men,Unemployed,14.4651552706682
+Apr-Jun 2014,Disabled,Men,Economically active,54.5533704173571
+Apr-Jun 2014,Disabled,Men,Economically inactive,45.4466295826429
+Apr-Jun 2014,Non-disabled,Men,In Employment,83.323271544845
+Apr-Jun 2014,Non-disabled,Men,Unemployed,5.72322426049841
+Apr-Jun 2014,Non-disabled,Men,Economically active,88.3815456046965
+Apr-Jun 2014,Non-disabled,Men,Economically inactive,11.6184543953036
+Jul-Sep 2014,Disabled,Men,In Employment,47.6344707620048
+Jul-Sep 2014,Disabled,Men,Unemployed,13.2851946748849
+Jul-Sep 2014,Disabled,Men,Economically active,54.9323389280659
+Jul-Sep 2014,Disabled,Men,Economically inactive,45.0676610719341
+Jul-Sep 2014,Non-disabled,Men,In Employment,84.0770278624671
+Jul-Sep 2014,Non-disabled,Men,Unemployed,5.82308579390902
+Jul-Sep 2014,Non-disabled,Men,Economically active,89.275624043572
+Jul-Sep 2014,Non-disabled,Men,Economically inactive,10.724375956428
+Oct-Dec 2014,Disabled,Men,In Employment,47.2153374890774
+Oct-Dec 2014,Disabled,Men,Unemployed,13.0407470247995
+Oct-Dec 2014,Disabled,Men,Economically active,54.2959327198251
+Oct-Dec 2014,Disabled,Men,Economically inactive,45.7040672801749
+Oct-Dec 2014,Non-disabled,Men,In Employment,83.9279229274262
+Oct-Dec 2014,Non-disabled,Men,Unemployed,5.14868056662142
+Oct-Dec 2014,Non-disabled,Men,Economically active,88.4836641480515
+Oct-Dec 2014,Non-disabled,Men,Economically inactive,11.5163358519485
+Jan-Mar 2015,Disabled,Men,In Employment,48.3903290753395
+Jan-Mar 2015,Disabled,Men,Unemployed,12.7147925835454
+Jan-Mar 2015,Disabled,Men,Economically active,55.4393241508379
+Jan-Mar 2015,Disabled,Men,Economically inactive,44.5606758491621
+Jan-Mar 2015,Non-disabled,Men,In Employment,83.6500033222781
+Jan-Mar 2015,Non-disabled,Men,Unemployed,5.08339873449829
+Jan-Mar 2015,Non-disabled,Men,Economically active,88.1300027676838
+Jan-Mar 2015,Non-disabled,Men,Economically inactive,11.8699972323162
+Apr-Jun 2015,Disabled,Men,In Employment,48.2687492374633
+Apr-Jun 2015,Disabled,Men,Unemployed,12.4991620164548
+Apr-Jun 2015,Disabled,Men,Economically active,55.1637565420121
+Apr-Jun 2015,Disabled,Men,Economically inactive,44.8362434579879
+Apr-Jun 2015,Non-disabled,Men,In Employment,83.6738725770315
+Apr-Jun 2015,Non-disabled,Men,Unemployed,5.08673882730419
+Apr-Jun 2015,Non-disabled,Men,Economically active,88.1582526437332
+Apr-Jun 2015,Non-disabled,Men,Economically inactive,11.8417473562668
+Jul-Sep 2015,Disabled,Men,In Employment,47.0260214630814
+Jul-Sep 2015,Disabled,Men,Unemployed,13.4271483544557
+Jul-Sep 2015,Disabled,Men,Economically active,54.319593924918
+Jul-Sep 2015,Disabled,Men,Economically inactive,45.680406075082
+Jul-Sep 2015,Non-disabled,Men,In Employment,84.9459338434099
+Jul-Sep 2015,Non-disabled,Men,Unemployed,4.93179402418633
+Jul-Sep 2015,Non-disabled,Men,Economically active,89.3526210697833
+Jul-Sep 2015,Non-disabled,Men,Economically inactive,10.6473789302167
+Oct-Dec 2015,Disabled,Men,In Employment,49.5820415502623
+Oct-Dec 2015,Disabled,Men,Unemployed,11.6638197244513
+Oct-Dec 2015,Disabled,Men,Economically active,56.1288040705406
+Oct-Dec 2015,Disabled,Men,Economically inactive,43.8711959294594
+Oct-Dec 2015,Non-disabled,Men,In Employment,84.9764879167971
+Oct-Dec 2015,Non-disabled,Men,Unemployed,4.45138670385481
+Oct-Dec 2015,Non-disabled,Men,Economically active,88.935343994391
+Oct-Dec 2015,Non-disabled,Men,Economically inactive,11.064656005609
+Jan-Mar 2016,Disabled,Men,In Employment,48.6698489172021
+Jan-Mar 2016,Disabled,Men,Unemployed,11.3607739100142
+Jan-Mar 2016,Disabled,Men,Economically active,54.9077999257269
+Jan-Mar 2016,Disabled,Men,Economically inactive,45.0922000742731
+Jan-Mar 2016,Non-disabled,Men,In Employment,84.6660523575551
+Jan-Mar 2016,Non-disabled,Men,Unemployed,4.66193687330809
+Jan-Mar 2016,Non-disabled,Men,Economically active,88.8061384727786
+Jan-Mar 2016,Non-disabled,Men,Economically inactive,11.1938615272214
+Apr-Jun 2016,Disabled,Men,In Employment,49.2225178127405
+Apr-Jun 2016,Disabled,Men,Unemployed,11.676024578513
+Apr-Jun 2016,Disabled,Men,Economically active,55.729508978562
+Apr-Jun 2016,Disabled,Men,Economically inactive,44.270491021438
+Apr-Jun 2016,Non-disabled,Men,In Employment,84.6491288602674
+Apr-Jun 2016,Non-disabled,Men,Unemployed,4.38462656180697
+Apr-Jun 2016,Non-disabled,Men,Economically active,88.5308772181762
+Apr-Jun 2016,Non-disabled,Men,Economically inactive,11.4691227818238
+Jul-Sep 2016,Disabled,Men,In Employment,50.0082727416703
+Jul-Sep 2016,Disabled,Men,Unemployed,11.4566288510258
+Jul-Sep 2016,Disabled,Men,Economically active,56.4788443140835
+Jul-Sep 2016,Disabled,Men,Economically inactive,43.5211556859165
+Jul-Sep 2016,Non-disabled,Men,In Employment,85.0730242113159
+Jul-Sep 2016,Non-disabled,Men,Unemployed,4.60070528227747
+Jul-Sep 2016,Non-disabled,Men,Economically active,89.1757370565882
+Jul-Sep 2016,Non-disabled,Men,Economically inactive,10.8242629434118
+Oct-Dec 2016,Disabled,Men,In Employment,51.3981597901399
+Oct-Dec 2016,Disabled,Men,Unemployed,10.7168122917721
+Oct-Dec 2016,Disabled,Men,Economically active,57.5675679928746
+Oct-Dec 2016,Disabled,Men,Economically inactive,42.4324320071254
+Oct-Dec 2016,Non-disabled,Men,In Employment,84.8874268139964
+Oct-Dec 2016,Non-disabled,Men,Unemployed,4.20770992662554
+Oct-Dec 2016,Non-disabled,Men,Economically active,88.616136798666
+Oct-Dec 2016,Non-disabled,Men,Economically inactive,11.383863201334
+Jan-Mar 2017,Disabled,Men,In Employment,50.0698334336152
+Jan-Mar 2017,Disabled,Men,Unemployed,11.1811027209776
+Jan-Mar 2017,Disabled,Men,Economically active,56.3729509907357
+Jan-Mar 2017,Disabled,Men,Economically inactive,43.6270490092643
+Jan-Mar 2017,Non-disabled,Men,In Employment,84.6331566884514
+Jan-Mar 2017,Non-disabled,Men,Unemployed,4.18454869953229
+Jan-Mar 2017,Non-disabled,Men,Economically active,88.3293409776365
+Jan-Mar 2017,Non-disabled,Men,Economically inactive,11.6706590223635
+Apr-Jun 2017,Disabled,Men,In Employment,49.9006255802249
+Apr-Jun 2017,Disabled,Men,Unemployed,11.3791485908967
+Apr-Jun 2017,Disabled,Men,Economically active,56.3079961282104
+Apr-Jun 2017,Disabled,Men,Economically inactive,43.6920038717896
+Apr-Jun 2017,Non-disabled,Men,In Employment,85.0459787252168
+Apr-Jun 2017,Non-disabled,Men,Unemployed,3.84343056143196
+Apr-Jun 2017,Non-disabled,Men,Economically active,88.445312911824
+Apr-Jun 2017,Non-disabled,Men,Economically inactive,11.5546870881761
+Jul-Sep 2017,Disabled,Men,In Employment,50.7819230675343
+Jul-Sep 2017,Disabled,Men,Unemployed,10.8199102157196
+Jul-Sep 2017,Disabled,Men,Economically active,56.943117225349
+Jul-Sep 2017,Disabled,Men,Economically inactive,43.056882774651
+Jul-Sep 2017,Non-disabled,Men,In Employment,85.6357411947652
+Jul-Sep 2017,Non-disabled,Men,Unemployed,3.77481991761879
+Jul-Sep 2017,Non-disabled,Men,Economically active,88.9951477580504
+Jul-Sep 2017,Non-disabled,Men,Economically inactive,11.0048522419496
+Oct-Dec 2017,Disabled,Men,In Employment,51.4587822814605
+Oct-Dec 2017,Disabled,Men,Unemployed,10.7326465423356
+Oct-Dec 2017,Disabled,Men,Economically active,57.6456904884776
+Oct-Dec 2017,Disabled,Men,Economically inactive,42.3543095115224
+Oct-Dec 2017,Non-disabled,Men,In Employment,85.6588721607213
+Oct-Dec 2017,Non-disabled,Men,Unemployed,3.46930074319514
+Oct-Dec 2017,Non-disabled,Men,Economically active,88.7374408558248
+Oct-Dec 2017,Non-disabled,Men,Economically inactive,11.2625591441752
+Jan-Mar 2018,Disabled,Men,In Employment,50.905899101915
+Jan-Mar 2018,Disabled,Men,Unemployed,11.7873043818363
+Jan-Mar 2018,Disabled,Men,Economically active,57.7081323104166
+Jan-Mar 2018,Disabled,Men,Economically inactive,42.2918676895834
+Jan-Mar 2018,Non-disabled,Men,In Employment,85.4729782299037
+Jan-Mar 2018,Non-disabled,Men,Unemployed,3.37788732806041
+Jan-Mar 2018,Non-disabled,Men,Economically active,88.4610943253844
+Jan-Mar 2018,Non-disabled,Men,Economically inactive,11.5389056746156
+Apr-Jun 2018,Disabled,Men,In Employment,50.697361596037
+Apr-Jun 2018,Disabled,Men,Unemployed,11.0437558103175
+Apr-Jun 2018,Disabled,Men,Economically active,56.991346765871
+Apr-Jun 2018,Disabled,Men,Economically inactive,43.008653234129
+Apr-Jun 2018,Non-disabled,Men,In Employment,85.8071381566609
+Apr-Jun 2018,Non-disabled,Men,Unemployed,3.210215610508
+Apr-Jun 2018,Non-disabled,Men,Economically active,88.6530936068255
+Apr-Jun 2018,Non-disabled,Men,Economically inactive,11.3469063931745
+Jul-Sep 2018,Disabled,Men,In Employment,51.8238231346577
+Jul-Sep 2018,Disabled,Men,Unemployed,11.3925384816071
+Jul-Sep 2018,Disabled,Men,Economically active,58.4869741741786
+Jul-Sep 2018,Disabled,Men,Economically inactive,41.5130258258214
+Jul-Sep 2018,Non-disabled,Men,In Employment,86.0203710907611
+Jul-Sep 2018,Non-disabled,Men,Unemployed,3.58016177630109
+Jul-Sep 2018,Non-disabled,Men,Economically active,89.2143906020558
+Jul-Sep 2018,Non-disabled,Men,Economically inactive,10.7856093979442
+Oct-Dec 2018,Disabled,Men,In Employment,52.2766134265667
+Oct-Dec 2018,Disabled,Men,Unemployed,10.141467459239
+Oct-Dec 2018,Disabled,Men,Economically active,58.1765714934788
+Oct-Dec 2018,Disabled,Men,Economically inactive,41.8234285065212
+Oct-Dec 2018,Non-disabled,Men,In Employment,86.1279777743586
+Oct-Dec 2018,Non-disabled,Men,Unemployed,3.37566709069916
+Oct-Dec 2018,Non-disabled,Men,Economically active,89.1369442676567
+Oct-Dec 2018,Non-disabled,Men,Economically inactive,10.8630557323433
+Jan-Mar 2019,Disabled,Men,In Employment,52.4174587385344
+Jan-Mar 2019,Disabled,Men,Unemployed,9.43904722796076
+Jan-Mar 2019,Disabled,Men,Economically active,57.8808604967751
+Jan-Mar 2019,Disabled,Men,Economically inactive,42.1191395032249
+Jan-Mar 2019,Non-disabled,Men,In Employment,85.5972368985095
+Jan-Mar 2019,Non-disabled,Men,Unemployed,3.35949517977698
+Jan-Mar 2019,Non-disabled,Men,Economically active,88.5728370911794
+Jan-Mar 2019,Non-disabled,Men,Economically inactive,11.4271629088206
+Apr-Jun 2019,Disabled,Men,In Employment,53.1462762101021
+Apr-Jun 2019,Disabled,Men,Unemployed,8.80468205966809
+Apr-Jun 2019,Disabled,Men,Economically active,58.2774175368029
+Apr-Jun 2019,Disabled,Men,Economically inactive,41.7225824631971
+Apr-Jun 2019,Non-disabled,Men,In Employment,85.2251235715342
+Apr-Jun 2019,Non-disabled,Men,Unemployed,3.58583180436451
+Apr-Jun 2019,Non-disabled,Men,Economically active,88.3948128853869
+Apr-Jun 2019,Non-disabled,Men,Economically inactive,11.6051871146131
+Jul-Sep 2019,Disabled,Men,In Employment,54.3048238977786
+Jul-Sep 2019,Disabled,Men,Unemployed,7.67190780450708
+Jul-Sep 2019,Disabled,Men,Economically active,58.8172273535069
+Jul-Sep 2019,Disabled,Men,Economically inactive,41.1827726464931
+Jul-Sep 2019,Non-disabled,Men,In Employment,85.8797367193632
+Jul-Sep 2019,Non-disabled,Men,Unemployed,3.92443213137756
+Jul-Sep 2019,Non-disabled,Men,Economically active,89.3876961901476
+Jul-Sep 2019,Non-disabled,Men,Economically inactive,10.6123038098525
+Oct-Dec 2019,Disabled,Men,In Employment,55.0150466296543
+Oct-Dec 2019,Disabled,Men,Unemployed,7.96256658358989
+Oct-Dec 2019,Disabled,Men,Economically active,59.7746423248752
+Oct-Dec 2019,Disabled,Men,Economically inactive,40.2253576751248
+Oct-Dec 2019,Non-disabled,Men,In Employment,86.0208002732571
+Oct-Dec 2019,Non-disabled,Men,Unemployed,3.34493211507701
+Oct-Dec 2019,Non-disabled,Men,Economically active,88.9977133694355
+Oct-Dec 2019,Non-disabled,Men,Economically inactive,11.0022866305645
+Jan-Mar 2020,Disabled,Men,In Employment,53.3310685390484
+Jan-Mar 2020,Disabled,Men,Unemployed,8.31576110376591
+Jan-Mar 2020,Disabled,Men,Economically active,58.1681968254185
+Jan-Mar 2020,Disabled,Men,Economically inactive,41.8318031745815
+Jan-Mar 2020,Non-disabled,Men,In Employment,85.4719810742877
+Jan-Mar 2020,Non-disabled,Men,Unemployed,3.80799109086655
+Jan-Mar 2020,Non-disabled,Men,Economically active,88.8555941845727
+Jan-Mar 2020,Non-disabled,Men,Economically inactive,11.1444058154273
+Apr-Jun 2020,Disabled,Men,In Employment,51.7528838240545
+Apr-Jun 2020,Disabled,Men,Unemployed,8.52114272404549
+Apr-Jun 2020,Disabled,Men,Economically active,56.5736011195867
+Apr-Jun 2020,Disabled,Men,Economically inactive,43.4263988804133
+Apr-Jun 2020,Non-disabled,Men,In Employment,84.6647952808973
+Apr-Jun 2020,Non-disabled,Men,Unemployed,3.72228064498733
+Apr-Jun 2020,Non-disabled,Men,Economically active,87.938098085504
+Apr-Jun 2020,Non-disabled,Men,Economically inactive,12.0619019144961
+Jul-Sep 2020,Disabled,Men,In Employment,51.251914753484
+Jul-Sep 2020,Disabled,Men,Unemployed,9.74247422740804
+Jul-Sep 2020,Disabled,Men,Economically active,56.7840900963933
+Jul-Sep 2020,Disabled,Men,Economically inactive,43.2159099036068
+Jul-Sep 2020,Non-disabled,Men,In Employment,84.0231954986294
+Jul-Sep 2020,Non-disabled,Men,Unemployed,5.04693546580696
+Jul-Sep 2020,Non-disabled,Men,Economically active,88.4891876958561
+Jul-Sep 2020,Non-disabled,Men,Economically inactive,11.510812304144
+Oct-Dec 2020,Disabled,Men,In Employment,50.2307876582238
+Oct-Dec 2020,Disabled,Men,Unemployed,10.7394860450946
+Oct-Dec 2020,Disabled,Men,Economically active,56.2743652625623
+Oct-Dec 2020,Disabled,Men,Economically inactive,43.7256347374377
+Oct-Dec 2020,Non-disabled,Men,In Employment,83.8094277483884
+Oct-Dec 2020,Non-disabled,Men,Unemployed,4.89970076554393
+Oct-Dec 2020,Non-disabled,Men,Economically active,88.1274069829879
+Oct-Dec 2020,Non-disabled,Men,Economically inactive,11.8725930170121
+Jan-Mar 2021,Disabled,Men,In Employment,49.5640889351461
+Jan-Mar 2021,Disabled,Men,Unemployed,11.0105415201889
+Jan-Mar 2021,Disabled,Men,Economically active,55.6965844964554
+Jan-Mar 2021,Disabled,Men,Economically inactive,44.3034155035446
+Jan-Mar 2021,Non-disabled,Men,In Employment,83.5144622937904
+Jan-Mar 2021,Non-disabled,Men,Unemployed,4.41121536180403
+Jan-Mar 2021,Non-disabled,Men,Economically active,87.3684738328802
+Jan-Mar 2021,Non-disabled,Men,Economically inactive,12.6315261671198
+Apr-Jun 2021,Disabled,Men,In Employment,51.470649378658
+Apr-Jun 2021,Disabled,Men,Unemployed,9.77101541141142
+Apr-Jun 2021,Disabled,Men,Economically active,57.0444736947284
+Apr-Jun 2021,Disabled,Men,Economically inactive,42.9555263052716
+Apr-Jun 2021,Non-disabled,Men,In Employment,83.6167049682776
+Apr-Jun 2021,Non-disabled,Men,Unemployed,4.13216205781167
+Apr-Jun 2021,Non-disabled,Men,Economically active,87.220810193614
+Apr-Jun 2021,Non-disabled,Men,Economically inactive,12.779189806386
+Jul-Sep 2021,Disabled,Men,In Employment,53.1513929945745
+Jul-Sep 2021,Disabled,Men,Unemployed,9.31593299502144
+Jul-Sep 2021,Disabled,Men,Economically active,58.6116114439999
+Jul-Sep 2021,Disabled,Men,Economically inactive,41.3883885560002
+Jul-Sep 2021,Non-disabled,Men,In Employment,84.6960796514567
+Jul-Sep 2021,Non-disabled,Men,Unemployed,4.01880368970752
+Jul-Sep 2021,Non-disabled,Men,Economically active,88.2423671587164
+Jul-Sep 2021,Non-disabled,Men,Economically inactive,11.7576328412836
+Oct-Dec 2021,Disabled,Men,In Employment,52.6572638779378
+Oct-Dec 2021,Disabled,Men,Unemployed,8.5957400707355
+Oct-Dec 2021,Disabled,Men,Economically active,57.6092010576837
+Oct-Dec 2021,Disabled,Men,Economically inactive,42.3907989423163
+Oct-Dec 2021,Non-disabled,Men,In Employment,84.7440464146337
+Oct-Dec 2021,Non-disabled,Men,Unemployed,3.70426063508604
+Oct-Dec 2021,Non-disabled,Men,Economically active,88.0039417875956
+Oct-Dec 2021,Non-disabled,Men,Economically inactive,11.9960582124044
+Jan-Mar 2022,Disabled,Men,In Employment,52.8952556423739
+Jan-Mar 2022,Disabled,Men,Unemployed,8.58320958008152
+Jan-Mar 2022,Disabled,Men,Economically active,57.8616416080702
+Jan-Mar 2022,Disabled,Men,Economically inactive,42.1383583919298
+Jan-Mar 2022,Non-disabled,Men,In Employment,84.491929764884
+Jan-Mar 2022,Non-disabled,Men,Unemployed,3.3367590653413
+Jan-Mar 2022,Non-disabled,Men,Economically active,87.4085422213371
+Jan-Mar 2022,Non-disabled,Men,Economically inactive,12.5914577786629
+Apr-Jun 2022,Disabled,Men,In Employment,52.0128830517198
+Apr-Jun 2022,Disabled,Men,Unemployed,8.36898223737368
+Apr-Jun 2022,Disabled,Men,Economically active,56.7634020899573
+Apr-Jun 2022,Disabled,Men,Economically inactive,43.2365979100427
+Apr-Jun 2022,Non-disabled,Men,In Employment,84.6035561407687
+Apr-Jun 2022,Non-disabled,Men,Unemployed,3.25209915720017
+Apr-Jun 2022,Non-disabled,Men,Economically active,87.4474333848713
+Apr-Jun 2022,Non-disabled,Men,Economically inactive,12.5525666151287
+Jul-Sep 2022,Disabled,Men,In Employment,52.6835078619672
+Jul-Sep 2022,Disabled,Men,Unemployed,8.30389972961921
+Jul-Sep 2022,Disabled,Men,Economically active,57.4544693903245
+Jul-Sep 2022,Disabled,Men,Economically inactive,42.5455306096755
+Jul-Sep 2022,Non-disabled,Men,In Employment,85.0875918860339
+Jul-Sep 2022,Non-disabled,Men,Unemployed,3.32050867531082
+Jul-Sep 2022,Non-disabled,Men,Economically active,88.0099705947718
+Jul-Sep 2022,Non-disabled,Men,Economically inactive,11.9900294052282
+Oct-Dec 2022,Disabled,Men,In Employment,53.2918695568004
+Oct-Dec 2022,Disabled,Men,Unemployed,7.93492685981838
+Oct-Dec 2022,Disabled,Men,Economically active,57.8850021393632
+Oct-Dec 2022,Disabled,Men,Economically inactive,42.1149978606368
+Oct-Dec 2022,Non-disabled,Men,In Employment,85.2296547267661
+Oct-Dec 2022,Non-disabled,Men,Unemployed,3.36699135798931
+Oct-Dec 2022,Non-disabled,Men,Economically active,88.1993181465665
+Oct-Dec 2022,Non-disabled,Men,Economically inactive,11.8006818534335
+Jan-Mar 2023,Disabled,Men,In Employment,53.1080061323277
+Jan-Mar 2023,Disabled,Men,Unemployed,8.23961552299834
+Jan-Mar 2023,Disabled,Men,Economically active,57.8768347964348
+Jan-Mar 2023,Disabled,Men,Economically inactive,42.1231652035652
+Jan-Mar 2023,Non-disabled,Men,In Employment,85.385141672024
+Jan-Mar 2023,Non-disabled,Men,Unemployed,3.6575550754511
+Jan-Mar 2023,Non-disabled,Men,Economically active,88.6267124930178
+Jan-Mar 2023,Non-disabled,Men,Economically inactive,11.3732875069822
+Apr-Jun 2023,Disabled,Men,In Employment,53.9885190584254
+Apr-Jun 2023,Disabled,Men,Unemployed,8.11333909286551
+Apr-Jun 2023,Disabled,Men,Economically active,58.7555566013973
+Apr-Jun 2023,Disabled,Men,Economically inactive,41.2444433986027
+Apr-Jun 2023,Non-disabled,Men,In Employment,85.0744577477397
+Apr-Jun 2023,Non-disabled,Men,Unemployed,3.89145085044502
+Apr-Jun 2023,Non-disabled,Men,Economically active,88.5191364353601
+Apr-Jun 2023,Non-disabled,Men,Economically inactive,11.4808635646399
+Jul-Sep 2023,Disabled,Men,In Employment,54.9724325074356
+Jul-Sep 2023,Disabled,Men,Unemployed,7.3392899682737
+Jul-Sep 2023,Disabled,Men,Economically active,59.3265824194672
+Jul-Sep 2023,Disabled,Men,Economically inactive,40.6734175805328
+Jul-Sep 2023,Non-disabled,Men,In Employment,84.4458173746877
+Jul-Sep 2023,Non-disabled,Men,Unemployed,4.36277338794399
+Jul-Sep 2023,Non-disabled,Men,Economically active,88.2980617131807
+Jul-Sep 2023,Non-disabled,Men,Economically inactive,11.7019382868193
+Oct-Dec 2023,Disabled,Men,In Employment,54.3074391890872
+Oct-Dec 2023,Disabled,Men,Unemployed,6.57292411326952
+Oct-Dec 2023,Disabled,Men,Economically active,58.1281589663886
+Oct-Dec 2023,Disabled,Men,Economically inactive,41.8718410336114
+Oct-Dec 2023,Non-disabled,Men,In Employment,84.5983419100989
+Oct-Dec 2023,Non-disabled,Men,Unemployed,3.82155204712297
+Oct-Dec 2023,Non-disabled,Men,Economically active,87.9597703131456
+Oct-Dec 2023,Non-disabled,Men,Economically inactive,12.0402296868544
+Jan-Mar 2024,Disabled,Men,In Employment,51.1597191946215
+Jan-Mar 2024,Disabled,Men,Unemployed,9.49795170855443
+Jan-Mar 2024,Disabled,Men,Economically active,56.5287970387927
+Jan-Mar 2024,Disabled,Men,Economically inactive,43.4712029612073
+Jan-Mar 2024,Non-disabled,Men,In Employment,84.5787826881019
+Jan-Mar 2024,Non-disabled,Men,Unemployed,3.74138285751719
+Jan-Mar 2024,Non-disabled,Men,Economically active,87.8661933849596
+Jan-Mar 2024,Non-disabled,Men,Economically inactive,12.1338066150404
+Apr-Jun 2024,Disabled,Men,In Employment,51.3188861305753
+Apr-Jun 2024,Disabled,Men,Unemployed,8.70458268280321
+Apr-Jun 2024,Disabled,Men,Economically active,56.2118971999141
+Apr-Jun 2024,Disabled,Men,Economically inactive,43.7881028000859
+Apr-Jun 2024,Non-disabled,Men,In Employment,84.4694185480595
+Apr-Jun 2024,Non-disabled,Men,Unemployed,3.72178626499066
+Apr-Jun 2024,Non-disabled,Men,Economically active,87.7347172025318
+Apr-Jun 2024,Non-disabled,Men,Economically inactive,12.2652827974682
+Jul-Sep 2024,Disabled,Men,In Employment,53.7593409446178
+Jul-Sep 2024,Disabled,Men,Unemployed,7.64497112999751
+Jul-Sep 2024,Disabled,Men,Economically active,58.2094354821638
+Jul-Sep 2024,Disabled,Men,Economically inactive,41.7905645178362
+Jul-Sep 2024,Non-disabled,Men,In Employment,84.7642797738626
+Jul-Sep 2024,Non-disabled,Men,Unemployed,4.15617102506299
+Jul-Sep 2024,Non-disabled,Men,Economically active,88.4399973169147
+Jul-Sep 2024,Non-disabled,Men,Economically inactive,11.5600026830853
+Oct-Dec 2024,Disabled,Men,In Employment,53.4711804799806
+Oct-Dec 2024,Disabled,Men,Unemployed,8.74346039979947
+Oct-Dec 2024,Disabled,Men,Economically active,58.5943546777475
+Oct-Dec 2024,Disabled,Men,Economically inactive,41.4056453222525
+Oct-Dec 2024,Non-disabled,Men,In Employment,85.5057462124973
+Oct-Dec 2024,Non-disabled,Men,Unemployed,3.72840997484905
+Oct-Dec 2024,Non-disabled,Men,Economically active,88.8172161591587
+Oct-Dec 2024,Non-disabled,Men,Economically inactive,11.1827838408413
+Jan-Mar 2025,Disabled,Men,In Employment,53.3254788698202
+Jan-Mar 2025,Disabled,Men,Unemployed,9.78904409247776
+Jan-Mar 2025,Disabled,Men,Economically active,59.1119762930853
+Jan-Mar 2025,Disabled,Men,Economically inactive,40.8880237069147
+Jan-Mar 2025,Non-disabled,Men,In Employment,84.7436102042705
+Jan-Mar 2025,Non-disabled,Men,Unemployed,3.83156187335995
+Jan-Mar 2025,Non-disabled,Men,Economically active,88.1199818309155
+Jan-Mar 2025,Non-disabled,Men,Economically inactive,11.8800181690845
+Apr-Jun 2025,Disabled,Men,In Employment,51.6529172320843
+Apr-Jun 2025,Disabled,Men,Unemployed,10.4320896115986
+Apr-Jun 2025,Disabled,Men,Economically active,57.668998872584
+Apr-Jun 2025,Disabled,Men,Economically inactive,42.331001127416
+Apr-Jun 2025,Non-disabled,Men,In Employment,85.4356254516266
+Apr-Jun 2025,Non-disabled,Men,Unemployed,3.896941566988
+Apr-Jun 2025,Non-disabled,Men,Economically active,88.9000067684411
+Apr-Jun 2025,Non-disabled,Men,Economically inactive,11.0999932315589
+Jul-Sep 2025,Disabled,Men,In Employment,50.288868015338
+Jul-Sep 2025,Disabled,Men,Unemployed,11.4498179654421
+Jul-Sep 2025,Disabled,Men,Economically active,56.7913773409434
+Jul-Sep 2025,Disabled,Men,Economically inactive,43.2086226590566
+Jul-Sep 2025,Non-disabled,Men,In Employment,85.0667112574543
+Jul-Sep 2025,Non-disabled,Men,Unemployed,4.75815853137141
+Jul-Sep 2025,Non-disabled,Men,Economically active,89.3165335169146
+Jul-Sep 2025,Non-disabled,Men,Economically inactive,10.6834664830854
+Oct-Dec 2025,Disabled,Men,In Employment,51.5398084009398
+Oct-Dec 2025,Disabled,Men,Unemployed,11.5603090565121
+Oct-Dec 2025,Disabled,Men,Economically active,58.2767848362035
+Oct-Dec 2025,Disabled,Men,Economically inactive,41.7232151637965
+Oct-Dec 2025,Non-disabled,Men,In Employment,84.6249291244502
+Oct-Dec 2025,Non-disabled,Men,Unemployed,4.69108924401172
+Oct-Dec 2025,Non-disabled,Men,Economically active,88.7901545125288
+Oct-Dec 2025,Non-disabled,Men,Economically inactive,11.2098454874712
+Jan-Mar 2026,Disabled,Men,In Employment,52.8666048553706
+Jan-Mar 2026,Disabled,Men,Unemployed,10.32290182857
+Jan-Mar 2026,Disabled,Men,Economically active,58.9521805827268
+Jan-Mar 2026,Disabled,Men,Economically inactive,41.0478194172732
+Jan-Mar 2026,Non-disabled,Men,In Employment,84.4680770900646
+Jan-Mar 2026,Non-disabled,Men,Unemployed,4.51882516166483
+Jan-Mar 2026,Non-disabled,Men,Economically active,88.4656868048413
+Jan-Mar 2026,Non-disabled,Men,Economically inactive,11.5343131951587
+Apr-Jun 2026,Disabled,Men,In Employment,51.4470446741705
+Apr-Jun 2026,Disabled,Men,Unemployed,11.0487542382567
+Apr-Jun 2026,Disabled,Men,Economically active,57.837351499238
+Apr-Jun 2026,Disabled,Men,Economically inactive,42.162648500762
+Apr-Jun 2026,Non-disabled,Men,In Employment,84.9359288619375
+Apr-Jun 2026,Non-disabled,Men,Unemployed,4.43719330381589
+Apr-Jun 2026,Non-disabled,Men,Economically active,88.8796926318501
+Apr-Jun 2026,Non-disabled,Men,Economically inactive,11.1203073681499
+Apr-Jun 2013,Disabled,Women,In Employment,41.8515317023714
+Apr-Jun 2013,Disabled,Women,Unemployed,12.4973817854678
+Apr-Jun 2013,Disabled,Women,Economically active,47.8288907878883
+Apr-Jun 2013,Disabled,Women,Economically inactive,52.1711092121117
+Apr-Jun 2013,Non-disabled,Women,In Employment,72.0587099270777
+Apr-Jun 2013,Non-disabled,Women,Unemployed,6.45005862957731
+Apr-Jun 2013,Non-disabled,Women,Economically active,77.0269963524106
+Apr-Jun 2013,Non-disabled,Women,Economically inactive,22.9730036475894
+Jul-Sep 2013,Disabled,Women,In Employment,41.8724230409071
+Jul-Sep 2013,Disabled,Women,Unemployed,13.2169513628662
+Jul-Sep 2013,Disabled,Women,Economically active,48.249541469773
+Jul-Sep 2013,Disabled,Women,Economically inactive,51.750458530227
+Jul-Sep 2013,Non-disabled,Women,In Employment,72.3655531093379
+Jul-Sep 2013,Non-disabled,Women,Unemployed,6.90766717861099
+Jul-Sep 2013,Non-disabled,Women,Economically active,77.7352451229057
+Jul-Sep 2013,Non-disabled,Women,Economically inactive,22.2647548770943
+Oct-Dec 2013,Disabled,Women,In Employment,42.813653779738
+Oct-Dec 2013,Disabled,Women,Unemployed,11.3556191665955
+Oct-Dec 2013,Disabled,Women,Economically active,48.2982151572593
+Oct-Dec 2013,Disabled,Women,Economically inactive,51.7017848427407
+Oct-Dec 2013,Non-disabled,Women,In Employment,72.7892388056801
+Oct-Dec 2013,Non-disabled,Women,Unemployed,6.19248177856243
+Oct-Dec 2013,Non-disabled,Women,Economically active,77.5942485056019
+Oct-Dec 2013,Non-disabled,Women,Economically inactive,22.4057514943981
+Jan-Mar 2014,Disabled,Women,In Employment,43.1304757258513
+Jan-Mar 2014,Disabled,Women,Unemployed,12.124702550884
+Jan-Mar 2014,Disabled,Women,Economically active,49.0814563112301
+Jan-Mar 2014,Disabled,Women,Economically inactive,50.9185436887699
+Jan-Mar 2014,Non-disabled,Women,In Employment,73.0232669252322
+Jan-Mar 2014,Non-disabled,Women,Unemployed,5.69444673263067
+Jan-Mar 2014,Non-disabled,Women,Economically active,77.432626600685
+Jan-Mar 2014,Non-disabled,Women,Economically inactive,22.567373399315
+Apr-Jun 2014,Disabled,Women,In Employment,43.5017152836863
+Apr-Jun 2014,Disabled,Women,Unemployed,11.0017340475629
+Apr-Jun 2014,Disabled,Women,Economically active,48.879284127777
+Apr-Jun 2014,Disabled,Women,Economically inactive,51.120715872223
+Apr-Jun 2014,Non-disabled,Women,In Employment,73.328759996883
+Apr-Jun 2014,Non-disabled,Women,Unemployed,5.38686528577603
+Apr-Jun 2014,Non-disabled,Women,Economically active,77.5037844569575
+Apr-Jun 2014,Non-disabled,Women,Economically inactive,22.4962155430425
+Jul-Sep 2014,Disabled,Women,In Employment,44.2653171244649
+Jul-Sep 2014,Disabled,Women,Unemployed,10.0721927320742
+Jul-Sep 2014,Disabled,Women,Economically active,49.223169639379
+Jul-Sep 2014,Disabled,Women,Economically inactive,50.776830360621
+Jul-Sep 2014,Non-disabled,Women,In Employment,73.8774058482293
+Jul-Sep 2014,Non-disabled,Women,Unemployed,5.54320579975246
+Jul-Sep 2014,Non-disabled,Women,Economically active,78.2129083182834
+Jul-Sep 2014,Non-disabled,Women,Economically inactive,21.7870916817166
+Oct-Dec 2014,Disabled,Women,In Employment,44.1908365148782
+Oct-Dec 2014,Disabled,Women,Unemployed,9.81947076843212
+Oct-Dec 2014,Disabled,Women,Economically active,49.0026360362156
+Oct-Dec 2014,Disabled,Women,Economically inactive,50.9973639637845
+Oct-Dec 2014,Non-disabled,Women,In Employment,74.3001364906502
+Oct-Dec 2014,Non-disabled,Women,Unemployed,4.79424673124797
+Oct-Dec 2014,Non-disabled,Women,Economically active,78.0416455305088
+Oct-Dec 2014,Non-disabled,Women,Economically inactive,21.9583544694913
+Jan-Mar 2015,Disabled,Women,In Employment,44.6025289698457
+Jan-Mar 2015,Disabled,Women,Unemployed,9.65504160412443
+Jan-Mar 2015,Disabled,Women,Economically active,49.3691399739267
+Jan-Mar 2015,Disabled,Women,Economically inactive,50.6308600260733
+Jan-Mar 2015,Non-disabled,Women,In Employment,74.2015520229018
+Jan-Mar 2015,Non-disabled,Women,Unemployed,4.75687069206957
+Jan-Mar 2015,Non-disabled,Women,Economically active,77.9075116095786
+Jan-Mar 2015,Non-disabled,Women,Economically inactive,22.0924883904214
+Apr-Jun 2015,Disabled,Women,In Employment,44.0005188806422
+Apr-Jun 2015,Disabled,Women,Unemployed,10.656563204654
+Apr-Jun 2015,Disabled,Women,Economically active,49.2487422231492
+Apr-Jun 2015,Disabled,Women,Economically inactive,50.7512577768508
+Apr-Jun 2015,Non-disabled,Women,In Employment,74.5543406055685
+Apr-Jun 2015,Non-disabled,Women,Unemployed,4.64442710117597
+Apr-Jun 2015,Non-disabled,Women,Economically active,78.1856144733916
+Apr-Jun 2015,Non-disabled,Women,Economically inactive,21.8143855266084
+Jul-Sep 2015,Disabled,Women,In Employment,44.5180467368558
+Jul-Sep 2015,Disabled,Women,Unemployed,9.99180990863961
+Jul-Sep 2015,Disabled,Women,Economically active,49.4599954644893
+Jul-Sep 2015,Disabled,Women,Economically inactive,50.5400045355107
+Jul-Sep 2015,Non-disabled,Women,In Employment,75.1837851602869
+Jul-Sep 2015,Non-disabled,Women,Unemployed,4.85744679411725
+Jul-Sep 2015,Non-disabled,Women,Economically active,79.022248853879
+Jul-Sep 2015,Non-disabled,Women,Economically inactive,20.977751146121
+Oct-Dec 2015,Disabled,Women,In Employment,44.2974989048116
+Oct-Dec 2015,Disabled,Women,Unemployed,9.4251218120774
+Oct-Dec 2015,Disabled,Women,Economically active,48.9070477278526
+Oct-Dec 2015,Disabled,Women,Economically inactive,51.0929522721475
+Oct-Dec 2015,Non-disabled,Women,In Employment,75.39942707843
+Oct-Dec 2015,Non-disabled,Women,Unemployed,4.24349617409794
+Oct-Dec 2015,Non-disabled,Women,Economically active,78.7407894669129
+Oct-Dec 2015,Non-disabled,Women,Economically inactive,21.2592105330871
+Jan-Mar 2016,Disabled,Women,In Employment,45.4293492230225
+Jan-Mar 2016,Disabled,Women,Unemployed,9.93259151749718
+Jan-Mar 2016,Disabled,Women,Economically active,50.439276524591
+Jan-Mar 2016,Disabled,Women,Economically inactive,49.560723475409
+Jan-Mar 2016,Non-disabled,Women,In Employment,75.0243257022165
+Jan-Mar 2016,Non-disabled,Women,Unemployed,4.19064973335498
+Jan-Mar 2016,Non-disabled,Women,Economically active,78.3058495787915
+Jan-Mar 2016,Non-disabled,Women,Economically inactive,21.6941504212085
+Apr-Jun 2016,Disabled,Women,In Employment,46.8212100905516
+Apr-Jun 2016,Disabled,Women,Unemployed,8.64627179395013
+Apr-Jun 2016,Disabled,Women,Economically active,51.2526538434705
+Apr-Jun 2016,Disabled,Women,Economically inactive,48.7473461565295
+Apr-Jun 2016,Non-disabled,Women,In Employment,75.2777478669237
+Apr-Jun 2016,Non-disabled,Women,Unemployed,4.16554623240725
+Apr-Jun 2016,Non-disabled,Women,Economically active,78.5497750626086
+Apr-Jun 2016,Non-disabled,Women,Economically inactive,21.4502249373914
+Jul-Sep 2016,Disabled,Women,In Employment,46.8757645817736
+Jul-Sep 2016,Disabled,Women,Unemployed,8.81395855264221
+Jul-Sep 2016,Disabled,Women,Economically active,51.4067326947571
+Jul-Sep 2016,Disabled,Women,Economically inactive,48.5932673052429
+Jul-Sep 2016,Non-disabled,Women,In Employment,75.714710178807
+Jul-Sep 2016,Non-disabled,Women,Unemployed,4.39151170582287
+Jul-Sep 2016,Non-disabled,Women,Economically active,79.1924561612573
+Jul-Sep 2016,Non-disabled,Women,Economically inactive,20.8075438387427
+Oct-Dec 2016,Disabled,Women,In Employment,48.0265751429316
+Oct-Dec 2016,Disabled,Women,Unemployed,7.97064681335357
+Oct-Dec 2016,Disabled,Women,Economically active,52.1861487448771
+Oct-Dec 2016,Disabled,Women,Economically inactive,47.8138512551229
+Oct-Dec 2016,Non-disabled,Women,In Employment,75.603561749434
+Oct-Dec 2016,Non-disabled,Women,Unemployed,3.97562115544658
+Oct-Dec 2016,Non-disabled,Women,Economically active,78.7337160199941
+Oct-Dec 2016,Non-disabled,Women,Economically inactive,21.2662839800059
+Jan-Mar 2017,Disabled,Women,In Employment,48.1091361618041
+Jan-Mar 2017,Disabled,Women,Unemployed,7.41534864582484
+Jan-Mar 2017,Disabled,Women,Economically active,51.962323622915
+Jan-Mar 2017,Disabled,Women,Economically inactive,48.037676377085
+Jan-Mar 2017,Non-disabled,Women,In Employment,75.6657375064929
+Jan-Mar 2017,Non-disabled,Women,Unemployed,3.93053278127135
+Jan-Mar 2017,Non-disabled,Women,Economically active,78.7614834317952
+Jan-Mar 2017,Non-disabled,Women,Economically inactive,21.2385165682048
+Apr-Jun 2017,Disabled,Women,In Employment,48.6181610566097
+Apr-Jun 2017,Disabled,Women,Unemployed,7.07557795703387
+Apr-Jun 2017,Disabled,Women,Economically active,52.3201113202833
+Apr-Jun 2017,Disabled,Women,Economically inactive,47.6798886797167
+Apr-Jun 2017,Non-disabled,Women,In Employment,75.8695027958152
+Apr-Jun 2017,Non-disabled,Women,Unemployed,3.81070710901927
+Apr-Jun 2017,Non-disabled,Women,Economically active,78.875205873282
+Apr-Jun 2017,Non-disabled,Women,Economically inactive,21.124794126718
+Jul-Sep 2017,Disabled,Women,In Employment,48.9319302803774
+Jul-Sep 2017,Disabled,Women,Unemployed,8.29451180744161
+Jul-Sep 2017,Disabled,Women,Economically active,53.3576901936694
+Jul-Sep 2017,Disabled,Women,Economically inactive,46.6423098063306
+Jul-Sep 2017,Non-disabled,Women,In Employment,76.3558533004741
+Jul-Sep 2017,Non-disabled,Women,Unemployed,3.83336881734509
+Jul-Sep 2017,Non-disabled,Women,Economically active,79.39953012958
+Jul-Sep 2017,Non-disabled,Women,Economically inactive,20.6004698704201
+Oct-Dec 2017,Disabled,Women,In Employment,49.7872347669018
+Oct-Dec 2017,Disabled,Women,Unemployed,7.76533700459779
+Oct-Dec 2017,Disabled,Women,Economically active,53.9788764332381
+Oct-Dec 2017,Disabled,Women,Economically inactive,46.0211235667619
+Oct-Dec 2017,Non-disabled,Women,In Employment,76.4143735091607
+Oct-Dec 2017,Non-disabled,Women,Unemployed,3.74544057434697
+Oct-Dec 2017,Non-disabled,Women,Economically active,79.3877962406375
+Oct-Dec 2017,Non-disabled,Women,Economically inactive,20.6122037593625
+Jan-Mar 2018,Disabled,Women,In Employment,50.5711081640816
+Jan-Mar 2018,Disabled,Women,Unemployed,6.88578414125385
+Jan-Mar 2018,Disabled,Women,Economically active,54.3108350295273
+Jan-Mar 2018,Disabled,Women,Economically inactive,45.6891649704727
+Jan-Mar 2018,Non-disabled,Women,In Employment,76.4644973468503
+Jan-Mar 2018,Non-disabled,Women,Unemployed,3.78250907150823
+Jan-Mar 2018,Non-disabled,Women,Economically active,79.4704752836241
+Jan-Mar 2018,Non-disabled,Women,Economically inactive,20.5295247163759
+Apr-Jun 2018,Disabled,Women,In Employment,50.6347257864597
+Apr-Jun 2018,Disabled,Women,Unemployed,6.96794754669778
+Apr-Jun 2018,Disabled,Women,Economically active,54.4271833751878
+Apr-Jun 2018,Disabled,Women,Economically inactive,45.5728166248122
+Apr-Jun 2018,Non-disabled,Women,In Employment,76.2824951950733
+Apr-Jun 2018,Non-disabled,Women,Unemployed,3.5017302713484
+Apr-Jun 2018,Non-disabled,Women,Economically active,79.0506352182023
+Apr-Jun 2018,Non-disabled,Women,Economically inactive,20.9493647817978
+Jul-Sep 2018,Disabled,Women,In Employment,50.8045522860325
+Jul-Sep 2018,Disabled,Women,Unemployed,7.42151583381133
+Jul-Sep 2018,Disabled,Women,Economically active,54.8772781749513
+Jul-Sep 2018,Disabled,Women,Economically inactive,45.1227218250488
+Jul-Sep 2018,Non-disabled,Women,In Employment,76.6069196278147
+Jul-Sep 2018,Non-disabled,Women,Unemployed,3.71165113198799
+Jul-Sep 2018,Non-disabled,Women,Economically active,79.5599057709715
+Jul-Sep 2018,Non-disabled,Women,Economically inactive,20.4400942290285
+Oct-Dec 2018,Disabled,Women,In Employment,50.9866430659229
+Oct-Dec 2018,Disabled,Women,Unemployed,7.14206637605633
+Oct-Dec 2018,Disabled,Women,Economically active,54.9082249368253
+Oct-Dec 2018,Disabled,Women,Economically inactive,45.0917750631747
+Oct-Dec 2018,Non-disabled,Women,In Employment,77.1216086082092
+Oct-Dec 2018,Non-disabled,Women,Unemployed,3.28617179646006
+Oct-Dec 2018,Non-disabled,Women,Economically active,79.7420700232258
+Oct-Dec 2018,Non-disabled,Women,Economically inactive,20.2579299767742
+Jan-Mar 2019,Disabled,Women,In Employment,51.3168021635839
+Jan-Mar 2019,Disabled,Women,Unemployed,6.79662487344113
+Jan-Mar 2019,Disabled,Women,Economically active,55.058952633316
+Jan-Mar 2019,Disabled,Women,Economically inactive,44.941047366684
+Jan-Mar 2019,Non-disabled,Women,In Employment,77.4923602050716
+Jan-Mar 2019,Non-disabled,Women,Unemployed,3.19741645613604
+Jan-Mar 2019,Non-disabled,Women,Economically active,80.0519545740818
+Jan-Mar 2019,Non-disabled,Women,Economically inactive,19.9480454259182
+Apr-Jun 2019,Disabled,Women,In Employment,52.2739793162612
+Apr-Jun 2019,Disabled,Women,Unemployed,6.07416212092683
+Apr-Jun 2019,Disabled,Women,Economically active,55.6545254177689
+Apr-Jun 2019,Disabled,Women,Economically inactive,44.3454745822311
+Apr-Jun 2019,Non-disabled,Women,In Employment,77.5674468447985
+Apr-Jun 2019,Non-disabled,Women,Unemployed,3.15971433403483
+Apr-Jun 2019,Non-disabled,Women,Economically active,80.0983251044454
+Apr-Jun 2019,Non-disabled,Women,Economically inactive,19.9016748955546
+Jul-Sep 2019,Disabled,Women,In Employment,52.4929443112154
+Jul-Sep 2019,Disabled,Women,Unemployed,5.86318667934403
+Jul-Sep 2019,Disabled,Women,Economically active,55.7623977905539
+Jul-Sep 2019,Disabled,Women,Economically inactive,44.2376022094461
+Jul-Sep 2019,Non-disabled,Women,In Employment,77.4535796443331
+Jul-Sep 2019,Non-disabled,Women,Unemployed,3.51324197863847
+Jul-Sep 2019,Non-disabled,Women,Economically active,80.2737922101034
+Jul-Sep 2019,Non-disabled,Women,Economically inactive,19.7262077898966
+Oct-Dec 2019,Disabled,Women,In Employment,53.6264004057845
+Oct-Dec 2019,Disabled,Women,Unemployed,6.10361248162187
+Oct-Dec 2019,Disabled,Women,Economically active,57.1123147791904
+Oct-Dec 2019,Disabled,Women,Economically inactive,42.8876852208096
+Oct-Dec 2019,Non-disabled,Women,In Employment,78.0912027091798
+Oct-Dec 2019,Non-disabled,Women,Unemployed,3.10534410063821
+Oct-Dec 2019,Non-disabled,Women,Economically active,80.5939212894136
+Oct-Dec 2019,Non-disabled,Women,Economically inactive,19.4060787105864
+Jan-Mar 2020,Disabled,Women,In Employment,52.2728913358732
+Jan-Mar 2020,Disabled,Women,Unemployed,6.48978903153427
+Jan-Mar 2020,Disabled,Women,Economically active,55.9007308340916
+Jan-Mar 2020,Disabled,Women,Economically inactive,44.0992691659084
+Jan-Mar 2020,Non-disabled,Women,In Employment,78.5113406479301
+Jan-Mar 2020,Non-disabled,Women,Unemployed,3.41829060162927
+Jan-Mar 2020,Non-disabled,Women,Economically active,81.2900715228535
+Jan-Mar 2020,Non-disabled,Women,Economically inactive,18.7099284771465
+Apr-Jun 2020,Disabled,Women,In Employment,51.6136117493657
+Apr-Jun 2020,Disabled,Women,Unemployed,5.74754729737429
+Apr-Jun 2020,Disabled,Women,Economically active,54.7610277179851
+Apr-Jun 2020,Disabled,Women,Economically inactive,45.2389722820149
+Apr-Jun 2020,Non-disabled,Women,In Employment,77.798734733555
+Apr-Jun 2020,Non-disabled,Women,Unemployed,3.53463900981741
+Apr-Jun 2020,Non-disabled,Women,Economically active,80.6493998830032
+Apr-Jun 2020,Non-disabled,Women,Economically inactive,19.3506001169968
+Jul-Sep 2020,Disabled,Women,In Employment,50.9455456266297
+Jul-Sep 2020,Disabled,Women,Unemployed,6.70318183125318
+Jul-Sep 2020,Disabled,Women,Economically active,54.6058768418919
+Jul-Sep 2020,Disabled,Women,Economically inactive,45.3941231581081
+Jul-Sep 2020,Non-disabled,Women,In Employment,77.8380525642807
+Jul-Sep 2020,Non-disabled,Women,Unemployed,4.31485432825667
+Jul-Sep 2020,Non-disabled,Women,Economically active,81.3481047845308
+Jul-Sep 2020,Non-disabled,Women,Economically inactive,18.6518952154692
+Oct-Dec 2020,Disabled,Women,In Employment,52.605983077011
+Oct-Dec 2020,Disabled,Women,Unemployed,6.89273532441651
+Oct-Dec 2020,Disabled,Women,Economically active,56.5004065582935
+Oct-Dec 2020,Disabled,Women,Economically inactive,43.4995934417065
+Oct-Dec 2020,Non-disabled,Women,In Employment,77.5432609598442
+Oct-Dec 2020,Non-disabled,Women,Unemployed,4.65819498230554
+Oct-Dec 2020,Non-disabled,Women,Economically active,81.3318574632114
+Oct-Dec 2020,Non-disabled,Women,Economically inactive,18.6681425367886
+Jan-Mar 2021,Disabled,Women,In Employment,53.4604612995605
+Jan-Mar 2021,Disabled,Women,Unemployed,6.29037892515859
+Jan-Mar 2021,Disabled,Women,Economically active,57.0490635714599
+Jan-Mar 2021,Disabled,Women,Economically inactive,42.9509364285401
+Jan-Mar 2021,Non-disabled,Women,In Employment,77.8734407842694
+Jan-Mar 2021,Non-disabled,Women,Unemployed,4.27006884854867
+Jan-Mar 2021,Non-disabled,Women,Economically active,81.347014301168
+Jan-Mar 2021,Non-disabled,Women,Economically inactive,18.6529856988321
+Apr-Jun 2021,Disabled,Women,In Employment,52.39562474147
+Apr-Jun 2021,Disabled,Women,Unemployed,7.37427305421817
+Apr-Jun 2021,Disabled,Women,Economically active,56.5670321509483
+Apr-Jun 2021,Disabled,Women,Economically inactive,43.4329678490517
+Apr-Jun 2021,Non-disabled,Women,In Employment,78.1060876821414
+Apr-Jun 2021,Non-disabled,Women,Unemployed,3.7612733847145
+Apr-Jun 2021,Non-disabled,Women,Economically active,81.1586878059709
+Apr-Jun 2021,Non-disabled,Women,Economically inactive,18.8413121940291
+Jul-Sep 2021,Disabled,Women,In Employment,53.0134019039197
+Jul-Sep 2021,Disabled,Women,Unemployed,6.32579578723451
+Jul-Sep 2021,Disabled,Women,Economically active,56.5933837916664
+Jul-Sep 2021,Disabled,Women,Economically inactive,43.4066162083336
+Jul-Sep 2021,Non-disabled,Women,In Employment,78.1299638379392
+Jul-Sep 2021,Non-disabled,Women,Unemployed,4.06754919364992
+Jul-Sep 2021,Non-disabled,Women,Economically active,81.4426851198171
+Jul-Sep 2021,Non-disabled,Women,Economically inactive,18.5573148801829
+Oct-Dec 2021,Disabled,Women,In Employment,52.6103998280095
+Oct-Dec 2021,Disabled,Women,Unemployed,6.63727632082288
+Oct-Dec 2021,Disabled,Women,Economically active,56.3505409383674
+Oct-Dec 2021,Disabled,Women,Economically inactive,43.6494590616326
+Oct-Dec 2021,Non-disabled,Women,In Employment,78.6909792760038
+Oct-Dec 2021,Non-disabled,Women,Unemployed,3.45990262906746
+Oct-Dec 2021,Non-disabled,Women,Economically active,81.5111869772124
+Oct-Dec 2021,Non-disabled,Women,Economically inactive,18.4888130227876
+Jan-Mar 2022,Disabled,Women,In Employment,53.0924333322746
+Jan-Mar 2022,Disabled,Women,Unemployed,5.4255973092669
+Jan-Mar 2022,Disabled,Women,Economically active,56.1382697873247
+Jan-Mar 2022,Disabled,Women,Economically inactive,43.8617302126753
+Jan-Mar 2022,Non-disabled,Women,In Employment,78.7552598360589
+Jan-Mar 2022,Non-disabled,Women,Unemployed,3.09807374745819
+Jan-Mar 2022,Non-disabled,Women,Economically active,81.2731623423152
+Jan-Mar 2022,Non-disabled,Women,Economically inactive,18.7268376576848
+Apr-Jun 2022,Disabled,Women,In Employment,52.653748806024
+Apr-Jun 2022,Disabled,Women,Unemployed,5.68698814077685
+Apr-Jun 2022,Disabled,Women,Economically active,55.8287215815119
+Apr-Jun 2022,Disabled,Women,Economically inactive,44.1712784184881
+Apr-Jun 2022,Non-disabled,Women,In Employment,78.5400864378498
+Apr-Jun 2022,Non-disabled,Women,Unemployed,3.10540892677197
+Apr-Jun 2022,Non-disabled,Women,Economically active,81.057245371409
+Apr-Jun 2022,Non-disabled,Women,Economically inactive,18.9427546285911
+Jul-Sep 2022,Disabled,Women,In Employment,51.664998005161
+Jul-Sep 2022,Disabled,Women,Unemployed,6.57137643339513
+Jul-Sep 2022,Disabled,Women,Economically active,55.2988966687808
+Jul-Sep 2022,Disabled,Women,Economically inactive,44.7011033312192
+Jul-Sep 2022,Non-disabled,Women,In Employment,78.92675349787
+Jul-Sep 2022,Non-disabled,Women,Unemployed,3.21972281846719
+Jul-Sep 2022,Non-disabled,Women,Economically active,81.5525185465478
+Jul-Sep 2022,Non-disabled,Women,Economically inactive,18.4474814534522
+Oct-Dec 2022,Disabled,Women,In Employment,52.2436425435352
+Oct-Dec 2022,Disabled,Women,Unemployed,7.04981112326972
+Oct-Dec 2022,Disabled,Women,Economically active,56.2060638874228
+Oct-Dec 2022,Disabled,Women,Economically inactive,43.7939361125772
+Oct-Dec 2022,Non-disabled,Women,In Employment,79.4819933592221
+Oct-Dec 2022,Non-disabled,Women,Unemployed,3.12437243904219
+Oct-Dec 2022,Non-disabled,Women,Economically active,82.0453971348046
+Oct-Dec 2022,Non-disabled,Women,Economically inactive,17.9546028651954
+Jan-Mar 2023,Disabled,Women,In Employment,52.9060694110062
+Jan-Mar 2023,Disabled,Women,Unemployed,5.12344634766748
+Jan-Mar 2023,Disabled,Women,Economically active,55.7630598650076
+Jan-Mar 2023,Disabled,Women,Economically inactive,44.2369401349924
+Jan-Mar 2023,Non-disabled,Women,In Employment,79.1302819888505
+Jan-Mar 2023,Non-disabled,Women,Unemployed,3.40170841121965
+Jan-Mar 2023,Non-disabled,Women,Economically active,81.9168545192379
+Jan-Mar 2023,Non-disabled,Women,Economically inactive,18.0831454807621
+Apr-Jun 2023,Disabled,Women,In Employment,52.1554220862837
+Apr-Jun 2023,Disabled,Women,Unemployed,6.53076043293038
+Apr-Jun 2023,Disabled,Women,Economically active,55.7995575098898
+Apr-Jun 2023,Disabled,Women,Economically inactive,44.2004424901102
+Apr-Jun 2023,Non-disabled,Women,In Employment,78.9896484792763
+Apr-Jun 2023,Non-disabled,Women,Unemployed,3.30707475229581
+Apr-Jun 2023,Non-disabled,Women,Economically active,81.6912388128952
+Apr-Jun 2023,Non-disabled,Women,Economically inactive,18.3087611871048
+Jul-Sep 2023,Disabled,Women,In Employment,52.5914270188917
+Jul-Sep 2023,Disabled,Women,Unemployed,6.53903282632449
+Jul-Sep 2023,Disabled,Women,Economically active,56.2710066130203
+Jul-Sep 2023,Disabled,Women,Economically inactive,43.7289933869797
+Jul-Sep 2023,Non-disabled,Women,In Employment,79.1394774475263
+Jul-Sep 2023,Non-disabled,Women,Unemployed,3.23138313295628
+Jul-Sep 2023,Non-disabled,Women,Economically active,81.7821727846548
+Jul-Sep 2023,Non-disabled,Women,Economically inactive,18.2178272153452
+Oct-Dec 2023,Disabled,Women,In Employment,53.6966746747446
+Oct-Dec 2023,Disabled,Women,Unemployed,4.86537394918171
+Oct-Dec 2023,Disabled,Women,Economically active,56.4428293921724
+Oct-Dec 2023,Disabled,Women,Economically inactive,43.5571706078276
+Oct-Dec 2023,Non-disabled,Women,In Employment,79.2138603366902
+Oct-Dec 2023,Non-disabled,Women,Unemployed,3.25564791200294
+Oct-Dec 2023,Non-disabled,Women,Economically active,81.8795708762808
+Oct-Dec 2023,Non-disabled,Women,Economically inactive,18.1204291237192
+Jan-Mar 2024,Disabled,Women,In Employment,54.3211055152443
+Jan-Mar 2024,Disabled,Women,Unemployed,6.51953849085586
+Jan-Mar 2024,Disabled,Women,Economically active,58.1095820862317
+Jan-Mar 2024,Disabled,Women,Economically inactive,41.8904179137683
+Jan-Mar 2024,Non-disabled,Women,In Employment,78.7330029265244
+Jan-Mar 2024,Non-disabled,Women,Unemployed,3.44312395488151
+Jan-Mar 2024,Non-disabled,Women,Economically active,81.5405449630894
+Jan-Mar 2024,Non-disabled,Women,Economically inactive,18.4594550369106
+Apr-Jun 2024,Disabled,Women,In Employment,54.4119567004795
+Apr-Jun 2024,Disabled,Women,Unemployed,5.61852656763342
+Apr-Jun 2024,Disabled,Women,Economically active,57.6510990151801
+Apr-Jun 2024,Disabled,Women,Economically inactive,42.3489009848199
+Apr-Jun 2024,Non-disabled,Women,In Employment,78.6379451772495
+Apr-Jun 2024,Non-disabled,Women,Unemployed,3.46956744375895
+Apr-Jun 2024,Non-disabled,Women,Economically active,81.4644077466794
+Apr-Jun 2024,Non-disabled,Women,Economically inactive,18.5355922533206
+Jul-Sep 2024,Disabled,Women,In Employment,55.0422753770608
+Jul-Sep 2024,Disabled,Women,Unemployed,6.0687458869056
+Jul-Sep 2024,Disabled,Women,Economically active,58.5984674608828
+Jul-Sep 2024,Disabled,Women,Economically inactive,41.4015325391172
+Jul-Sep 2024,Non-disabled,Women,In Employment,78.9840460757463
+Jul-Sep 2024,Non-disabled,Women,Unemployed,3.79175983657962
+Jul-Sep 2024,Non-disabled,Women,Economically active,82.0969658540506
+Jul-Sep 2024,Non-disabled,Women,Economically inactive,17.9030341459494
+Oct-Dec 2024,Disabled,Women,In Employment,54.4248236069848
+Oct-Dec 2024,Disabled,Women,Unemployed,6.05424515114501
+Oct-Dec 2024,Disabled,Women,Economically active,57.9321797930587
+Oct-Dec 2024,Disabled,Women,Economically inactive,42.0678202069413
+Oct-Dec 2024,Non-disabled,Women,In Employment,78.7286762736727
+Oct-Dec 2024,Non-disabled,Women,Unemployed,3.76889246964019
+Oct-Dec 2024,Non-disabled,Women,Economically active,81.812085815218
+Oct-Dec 2024,Non-disabled,Women,Economically inactive,18.187914184782
+Jan-Mar 2025,Disabled,Women,In Employment,54.4379949938425
+Jan-Mar 2025,Disabled,Women,Unemployed,6.18672278940818
+Jan-Mar 2025,Disabled,Women,Economically active,58.0280282412907
+Jan-Mar 2025,Disabled,Women,Economically inactive,41.9719717587093
+Jan-Mar 2025,Non-disabled,Women,In Employment,78.9873190546576
+Jan-Mar 2025,Non-disabled,Women,Unemployed,3.95128902309404
+Jan-Mar 2025,Non-disabled,Women,Economically active,82.2367299376348
+Jan-Mar 2025,Non-disabled,Women,Economically inactive,17.7632700623652
+Apr-Jun 2025,Disabled,Women,In Employment,53.7112247000825
+Apr-Jun 2025,Disabled,Women,Unemployed,7.04785464652958
+Apr-Jun 2025,Disabled,Women,Economically active,57.7837386063916
+Apr-Jun 2025,Disabled,Women,Economically inactive,42.2162613936084
+Apr-Jun 2025,Non-disabled,Women,In Employment,79.4621192101377
+Apr-Jun 2025,Non-disabled,Women,Unemployed,3.91107860836337
+Apr-Jun 2025,Non-disabled,Women,Economically active,82.6964420656447
+Apr-Jun 2025,Non-disabled,Women,Economically inactive,17.3035579343553
+Jul-Sep 2025,Disabled,Women,In Employment,53.7660584189321
+Jul-Sep 2025,Disabled,Women,Unemployed,7.38197994175717
+Jul-Sep 2025,Disabled,Women,Economically active,58.0514012123356
+Jul-Sep 2025,Disabled,Women,Economically inactive,41.9485987876644
+Jul-Sep 2025,Non-disabled,Women,In Employment,79.6838749130563
+Jul-Sep 2025,Non-disabled,Women,Unemployed,4.02561048976096
+Jul-Sep 2025,Non-disabled,Women,Economically active,83.0261857561023
+Jul-Sep 2025,Non-disabled,Women,Economically inactive,16.9738142438977
+Oct-Dec 2025,Disabled,Women,In Employment,53.6498563493488
+Oct-Dec 2025,Disabled,Women,Unemployed,7.4825218833865
+Oct-Dec 2025,Disabled,Women,Economically active,57.9888875502269
+Oct-Dec 2025,Disabled,Women,Economically inactive,42.0111124497731
+Oct-Dec 2025,Non-disabled,Women,In Employment,79.7351769382689
+Oct-Dec 2025,Non-disabled,Women,Unemployed,4.06736903270302
+Oct-Dec 2025,Non-disabled,Women,Economically active,83.1158033864935
+Oct-Dec 2025,Non-disabled,Women,Economically inactive,16.8841966135065
+Jan-Mar 2026,Disabled,Women,In Employment,53.2772020872295
+Jan-Mar 2026,Disabled,Women,Unemployed,7.54870709505032
+Jan-Mar 2026,Disabled,Women,Economically active,57.6273196546904
+Jan-Mar 2026,Disabled,Women,Economically inactive,42.3726803453096
+Jan-Mar 2026,Non-disabled,Women,In Employment,79.7178140800258
+Jan-Mar 2026,Non-disabled,Women,Unemployed,4.02839936895041
+Jan-Mar 2026,Non-disabled,Women,Economically active,83.0639622094985
+Jan-Mar 2026,Non-disabled,Women,Economically inactive,16.9360377905015
+Apr-Jun 2026,Disabled,Women,In Employment,54.1049682808186
+Apr-Jun 2026,Disabled,Women,Unemployed,7.02937482336132
+Apr-Jun 2026,Disabled,Women,Economically active,58.1957668650957
+Apr-Jun 2026,Disabled,Women,Economically inactive,41.8042331349043
+Apr-Jun 2026,Non-disabled,Women,In Employment,79.6823480538578
+Apr-Jun 2026,Non-disabled,Women,Unemployed,3.68898342303181
+Apr-Jun 2026,Non-disabled,Women,Economically active,82.7344065984171
+Apr-Jun 2026,Non-disabled,Women,Economically inactive,17.2655934015829
